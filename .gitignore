@@ -1,0 +1,23 @@
+﻿# Dependencies
+node_modules/
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+
+# Env
+.env
+.env.local
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crawler output (regenerated weekly)
+github_crawl_output.json
+crawler_last_run.log
+
+# Audit scripts (temp)
+_audit*.py
+_fix*.py
