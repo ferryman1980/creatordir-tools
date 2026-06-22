@@ -39,5 +39,90 @@
       "final_url": "https://forsale.godaddy.com/forsale/aicollection.org?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
       "has_form": false
     }
+  },
+  {
+    "step": "submit_3",
+    "dir": "Futurepedia",
+    "url": "https://www.futurepedia.io/submit-tool",
+    "result": {
+      "status": "submitted",
+      "time": "2026-06-23T01:26:42.135975",
+      "fields_found": {
+        "name": false,
+        "url": false,
+        "description": false
+      },
+      "submitted": true,
+      "final_url": "https://www.futurepedia.io/submit-tool",
+      "has_form": true
+    }
+  },
+  {
+    "step": "submit_4",
+    "dir": "EasyWithAI",
+    "url": "https://easywithai.com/submit",
+    "result": {
+      "status": "submitted",
+      "time": "2026-06-23T01:26:46.955660",
+      "fields_found": {
+        "name": true,
+        "url": false,
+        "description": false
+      },
+      "submitted": true,
+      "final_url": "https://aitoptools.com/submit",
+      "has_form": true
+    }
+  },
+  {
+    "step": "submit_5",
+    "dir": "TopAI.tools",
+    "url": "https://topai.tools/submit",
+    "result": {
+      "status": "visited",
+      "time": "2026-06-23T01:27:00.814722",
+      "fields_found": {
+        "name": false,
+        "url": false,
+        "description": false
+      },
+      "submitted": false,
+      "final_url": "https://aipicks.io/submit",
+      "has_form": false
+    }
+  },
+  {
+    "step": "submit_6",
+    "dir": "Aixploria",
+    "url": "https://www.aixploria.com/en/submit-tool",
+    "result": {
+      "status": "submitted",
+      "time": "2026-06-23T01:27:05.080891",
+      "fields_found": {
+        "name": false,
+        "url": false,
+        "description": false
+      },
+      "submitted": true,
+      "final_url": "https://www.aixploria.com/en/submit-tool",
+      "has_form": true
+    }
+  },
+  {
+    "step": "submit_7",
+    "dir": "ToolPilot",
+    "url": "https://toolpilot.ai/submit",
+    "result": {
+      "status": "submitted",
+      "time": "2026-06-23T01:27:12.143444",
+      "fields_found": {
+        "name": false,
+        "url": false,
+        "description": false
+      },
+      "submitted": true,
+      "final_url": "https://www.toolpilot.ai/submit",
+      "has_form": true
+    }
   }
 ]
