@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-22T21:12:24.253949",
-  "round": 15,
-  "total": 52,
+  "generated": "2026-06-23T00:04:28.012100",
+  "round": 17,
+  "total": 47,
   "data": [
     {
       "source": "huggingface",
@@ -15,7 +15,7 @@
         ""
       ],
       "language": "docker",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/enzostvs/deepsite",
       "license": "Apache 2.0"
     },
@@ -31,7 +31,7 @@
         ""
       ],
       "language": "docker",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "license": "Apache 2.0"
     },
@@ -47,7 +47,7 @@
         ""
       ],
       "language": "docker",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "license": "Apache 2.0"
     },
@@ -63,7 +63,7 @@
         ""
       ],
       "language": "gradio",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "license": "Apache 2.0"
     },
@@ -79,7 +79,7 @@
         ""
       ],
       "language": "gradio",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "license": "Apache 2.0"
     },
@@ -89,13 +89,13 @@
       "name": "leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "description": "docker space",
-      "stars": 7494,
+      "stars": 7496,
       "topics": [
         "docker",
         ""
       ],
       "language": "docker",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/mteb/leaderboard",
       "license": "Apache 2.0"
     },
@@ -111,7 +111,7 @@
         ""
       ],
       "language": "static",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
       "license": "Apache 2.0"
     },
@@ -127,7 +127,7 @@
         ""
       ],
       "language": "gradio",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
       "license": "Apache 2.0"
     },
@@ -143,7 +143,7 @@
         ""
       ],
       "language": "gradio",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
       "license": "Apache 2.0"
     },
@@ -159,7 +159,7 @@
         ""
       ],
       "language": "gradio",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/facebook/MusicGen",
       "license": "Apache 2.0"
     },
@@ -175,7 +175,7 @@
         ""
       ],
       "language": "gradio",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "license": "Apache 2.0"
     },
@@ -191,7 +191,7 @@
         ""
       ],
       "language": "static",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "license": "Apache 2.0"
     },
@@ -207,7 +207,7 @@
         ""
       ],
       "language": "gradio",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/microsoft/TRELLIS",
       "license": "Apache 2.0"
     },
@@ -223,7 +223,7 @@
         ""
       ],
       "language": "gradio",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/KingNish/OpenGPT-4o",
       "license": "Apache 2.0"
     },
@@ -233,13 +233,13 @@
       "name": "ultrascale-playbook",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "description": "static space",
-      "stars": 3899,
+      "stars": 3900,
       "topics": [
         "static",
         ""
       ],
       "language": "static",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "homepage": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "license": "Apache 2.0"
     },
@@ -249,7 +249,7 @@
       "name": "The Principle of Least AI",
       "url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0",
       "description": "Why AI Alternatives Matter   AI is prone to problems affecting its output: hallucinations,...",
-      "stars": 120,
+      "stars": 290,
       "topics": [
         "ai",
         " productivity",
@@ -262,20 +262,54 @@
     },
     {
       "source": "devto",
-      "id": "3955460",
-      "name": "15 AI Stories Later, Some Honest Words",
-      "url": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j",
-      "description": "May 29 I wrote my first AI trainwreck story. June 18 I finished #15.  People keep asking if this was...",
-      "stars": 280,
+      "id": "3718227",
+      "name": "What Kind of AI-Assisted Developer Are You? Take the quiz.",
+      "url": "https://dev.to/javz/what-kind-of-ai-assisted-developer-are-you-take-the-quiz-5253",
+      "description": "AI makes us faster, but does it make us better engineers, or just more dependent?   As a follow-up...",
+      "stars": 200,
       "topics": [
         "ai",
-        " discuss",
-        " programming",
-        " career"
+        " productivity",
+        " softwareengineering",
+        " learning"
       ],
       "language": "Article",
-      "updated": "2026-06-21",
-      "homepage": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j",
+      "updated": "2026-06-22",
+      "homepage": "https://dev.to/javz/what-kind-of-ai-assisted-developer-are-you-take-the-quiz-5253",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "3960585",
+      "name": "When Software Started Writing Software: A Developer’s History of AI",
+      "url": "https://dev.to/adamthedeveloper/when-software-started-writing-software-a-developers-history-of-ai-4p9n",
+      "description": "If you've shipped software in the last three years, you've probably watched your job description...",
+      "stars": 260,
+      "topics": [
+        "ai",
+        " machinelearning",
+        " programming",
+        " productivity"
+      ],
+      "language": "Article",
+      "updated": "2026-06-22",
+      "homepage": "https://dev.to/adamthedeveloper/when-software-started-writing-software-a-developers-history-of-ai-4p9n",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "3963312",
+      "name": "Working on a silly project - share your favorite AI buzzwords/phrases and general key terms with me ",
+      "url": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664",
+      "description": "Feel free to include any brands or product names as well. Be as obscure or on the nose as you'd like....",
+      "stars": 110,
+      "topics": [
+        "ai",
+        " discuss"
+      ],
+      "language": "Article",
+      "updated": "2026-06-22",
+      "homepage": "https://dev.to/jess/working-on-a-silly-project-share-your-favorite-ai-buzzwordsphrases-and-general-key-terms-with-me-664",
       "license": ""
     },
     {
@@ -316,6 +350,24 @@
     },
     {
       "source": "devto",
+      "id": "3957711",
+      "name": "How We Scaled from 0 to 164 Monthly Active Users in 28 Days (And What We Learned)",
+      "url": "https://dev.to/ogeobubu/how-we-scaled-from-0-to-164-monthly-active-users-in-28-days-and-what-we-learned-2ccc",
+      "description": "The story of Foodmartex's biggest week yet and the surprising lessons that came with it.          ...",
+      "stars": 90,
+      "topics": [
+        "webdev",
+        " programming",
+        " ai",
+        " productivity"
+      ],
+      "language": "Article",
+      "updated": "2026-06-21",
+      "homepage": "https://dev.to/ogeobubu/how-we-scaled-from-0-to-164-monthly-active-users-in-28-days-and-what-we-learned-2ccc",
+      "license": ""
+    },
+    {
+      "source": "devto",
       "id": "3797732",
       "name": "Kinde Is Missing from Mastra's Auth Lineup, So I Built the Provider",
       "url": "https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9",
@@ -334,29 +386,11 @@
     },
     {
       "source": "devto",
-      "id": "3960585",
-      "name": "When Software Started Writing Software: A Developer’s History of AI",
-      "url": "https://dev.to/adamthedeveloper/when-software-started-writing-software-a-developers-history-of-ai-4p9n",
-      "description": "If you've shipped software in the last three years, you've probably watched your job description...",
-      "stars": 120,
-      "topics": [
-        "ai",
-        " machinelearning",
-        " programming",
-        " productivity"
-      ],
-      "language": "Article",
-      "updated": "2026-06-22",
-      "homepage": "https://dev.to/adamthedeveloper/when-software-started-writing-software-a-developers-history-of-ai-4p9n",
-      "license": ""
-    },
-    {
-      "source": "devto",
       "id": "3957677",
       "name": "Receipts Are Not Outcomes: What Happened When I Pointed My AI Gate at Trading",
       "url": "https://dev.to/kenielzep97/receipts-are-not-outcomes-what-happened-when-i-pointed-my-ai-gate-at-trading-3409",
       "description": "I have been writing here about one core idea:  AI agents do not only fail because they forget...",
-      "stars": 120,
+      "stars": 170,
       "topics": [
         "ai",
         " agents",
@@ -388,6 +422,23 @@
     },
     {
       "source": "devto",
+      "id": "3962163",
+      "name": "I’ve shipped 150+ PRs and built AI agents in a day - but I still can’t get a job",
+      "url": "https://dev.to/nehaaaa6/ive-shipped-150-prs-and-built-ai-agents-in-a-day-but-i-still-cant-get-a-job-12m2",
+      "description": "I'm writing this because I don't know what else to do. This is Neha. I am a software engineer. I have...",
+      "stars": 110,
+      "topics": [
+        "opensource",
+        " ai",
+        " career"
+      ],
+      "language": "Article",
+      "updated": "2026-06-22",
+      "homepage": "https://dev.to/nehaaaa6/ive-shipped-150-prs-and-built-ai-agents-in-a-day-but-i-still-cant-get-a-job-12m2",
+      "license": ""
+    },
+    {
+      "source": "devto",
       "id": "3956193",
       "name": "Docker Security Dispatch — Issue 3: Zurich, Worms, and the AI Frontier 🏔️",
       "url": "https://dev.to/docker/docker-security-dispatch-issue-3-zurich-worms-and-the-ai-frontier-3pep",
@@ -402,6 +453,42 @@
       "language": "Article",
       "updated": "2026-06-22",
       "homepage": "https://dev.to/docker/docker-security-dispatch-issue-3-zurich-worms-and-the-ai-frontier-3pep",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "3963309",
+      "name": "Trust Isn't a Scalar: Typed Provenance for Agent Chains",
+      "url": "https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p",
+      "description": "Two posts ago I gave you a boolean trust tag. A commenter took it apart, and he was right. Here's the better model: trust is a vector over axes, provenance is what propagates, and the consumer applies the policy. Part 3 of a series that my comment section is co-writing.",
+      "stars": 60,
+      "topics": [
+        "ai",
+        " llm",
+        " devops",
+        " machinelearning"
+      ],
+      "language": "Article",
+      "updated": "2026-06-22",
+      "homepage": "https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "3962824",
+      "name": "I Replaced FileZilla and PuTTY with One Open-Source App (and Added an AI Bridge)",
+      "url": "https://dev.to/juandenis/i-replaced-filezilla-and-putty-with-one-open-source-app-and-added-an-ai-bridge-8k",
+      "description": "I’ve been moving files to servers and SSH-ing into boxes for more than a decade. And for most of that...",
+      "stars": 10,
+      "topics": [
+        "rust",
+        " ssh",
+        " sftp",
+        " ai"
+      ],
+      "language": "Article",
+      "updated": "2026-06-22",
+      "homepage": "https://dev.to/juandenis/i-replaced-filezilla-and-putty-with-one-open-source-app-and-added-an-ai-bridge-8k",
       "license": ""
     },
     {
@@ -423,205 +510,35 @@
       "license": ""
     },
     {
-      "source": "devto",
-      "id": "3956693",
-      "name": "Running a local coding agent on a Mac Mini — the actual setup",
-      "url": "https://dev.to/vystartasv/running-a-local-coding-agent-on-a-mac-mini-the-actual-setup-47bo",
-      "description": "Running a local coding agent on a Mac Mini           Running a local coding agent on a Mac Mini — the...",
-      "stars": 0,
-      "topics": [
-        "ai",
-        " agents",
-        " macos",
-        " tutorial"
-      ],
-      "language": "Article",
-      "updated": "2026-06-21",
-      "homepage": "https://dev.to/vystartasv/running-a-local-coding-agent-on-a-mac-mini-the-actual-setup-47bo",
-      "license": ""
-    },
-    {
-      "source": "devto",
-      "id": "3956257",
-      "name": "Building a Memory Agent That Actually Forgets (And the Three Bugs That Taught Me Why That's Hard)",
-      "url": "https://dev.to/hereforlolz/building-a-memory-agent-that-actually-forgets-and-the-three-bugs-that-taught-me-why-thats-hard-526",
-      "description": "By Nidhi: Built for the Global AI Hackathon Series with Qwen Cloud, Track 1: MemoryAgent  When I...",
-      "stars": 20,
-      "topics": [
-        "ai",
-        " hackathon",
-        " webdev",
-        " python"
-      ],
-      "language": "Article",
-      "updated": "2026-06-21",
-      "homepage": "https://dev.to/hereforlolz/building-a-memory-agent-that-actually-forgets-and-the-three-bugs-that-taught-me-why-thats-hard-526",
-      "license": ""
-    },
-    {
-      "source": "devto",
-      "id": "3955805",
-      "name": "Who actually wrote that commit... you, or your AI agent?",
-      "url": "https://dev.to/matrixscroll/who-actually-wrote-that-commit-you-or-your-ai-agent-513g",
-      "description": "The gap nobody's really tracking   Your Git history can tell you that a workstation pushed a...",
-      "stars": 10,
-      "topics": [
-        "security",
-        " git",
-        " opensource",
-        " ai"
-      ],
-      "language": "Article",
-      "updated": "2026-06-21",
-      "homepage": "https://dev.to/matrixscroll/who-actually-wrote-that-commit-you-or-your-ai-agent-513g",
-      "license": ""
-    },
-    {
-      "source": "devto",
-      "id": "3960224",
-      "name": "How I Built a Production Claude Code Setup (and Open-Sourced It)",
-      "url": "https://dev.to/faizkhairi/how-i-built-a-production-claude-code-setup-and-open-sourced-it-1be4",
-      "description": "Test body",
-      "stars": 10,
-      "topics": [
-        "claudecode",
-        " ai",
-        " productivity",
-        " opensource"
-      ],
-      "language": "Article",
-      "updated": "2026-06-22",
-      "homepage": "https://dev.to/faizkhairi/how-i-built-a-production-claude-code-setup-and-open-sourced-it-1be4",
-      "license": ""
-    },
-    {
-      "source": "devto",
-      "id": "3960106",
-      "name": "Why My RAG App Kept Hallucinating (and How I Fixed It)",
-      "url": "https://dev.to/pallavi_sharma_10c1a6f1da/why-my-rag-app-kept-hallucinating-and-how-i-fixed-it-3i10",
-      "description": "A few months ago I was demoing my RAG-powered support bot to a colleague, feeling pretty confident...",
-      "stars": 60,
-      "topics": [
-        "ai",
-        " rag",
-        " llm",
-        " webdev"
-      ],
-      "language": "Article",
-      "updated": "2026-06-22",
-      "homepage": "https://dev.to/pallavi_sharma_10c1a6f1da/why-my-rag-app-kept-hallucinating-and-how-i-fixed-it-3i10",
-      "license": ""
-    },
-    {
       "source": "hackernews",
-      "id": "48622778",
-      "name": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "description": "Apertus – Open Foundation Model for Sovereign AI",
-      "stars": 448,
+      "id": "48630171",
+      "name": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "description": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "stars": 55,
       "topics": [
         "AI",
         "Tech"
       ],
       "language": "Article",
       "updated": "2026-06-22",
-      "homepage": "https://apertvs.ai/",
+      "homepage": "https://hustvl.github.io/Moebius/",
       "license": ""
     },
     {
       "source": "hackernews",
-      "id": "48599998",
-      "name": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "description": "Munich 1991: The Roots of the Current AI Boom",
-      "stars": 123,
-      "topics": [
-        "AI",
-        "Tech"
-      ],
-      "language": "Article",
-      "updated": "2026-06-19",
-      "homepage": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "license": ""
-    },
-    {
-      "source": "hackernews",
-      "id": "48618455",
-      "name": "Identity verification on Claude",
-      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "description": "Identity verification on Claude",
-      "stars": 809,
-      "topics": [
-        "AI",
-        "Tech"
-      ],
-      "language": "Article",
-      "updated": "2026-06-21",
-      "homepage": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "license": ""
-    },
-    {
-      "source": "hackernews",
-      "id": "48623434",
-      "name": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "description": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "stars": 166,
+      "id": "48630535",
+      "name": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "description": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "stars": 80,
       "topics": [
         "AI",
         "Tech"
       ],
       "language": "Article",
       "updated": "2026-06-22",
-      "homepage": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "license": ""
-    },
-    {
-      "source": "hackernews",
-      "id": "48621517",
-      "name": "JSON-LD explained for personal websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "description": "JSON-LD explained for personal websites",
-      "stars": 239,
-      "topics": [
-        "AI",
-        "Tech"
-      ],
-      "language": "Article",
-      "updated": "2026-06-22",
-      "homepage": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "license": ""
-    },
-    {
-      "source": "hackernews",
-      "id": "48625823",
-      "name": "Danish privacy activist Lars Andersen raided by police",
-      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-      "description": "Danish privacy activist Lars Andersen raided by police",
-      "stars": 305,
-      "topics": [
-        "AI",
-        "Tech"
-      ],
-      "language": "Article",
-      "updated": "2026-06-22",
-      "homepage": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-      "license": ""
-    },
-    {
-      "source": "hackernews",
-      "id": "48622590",
-      "name": "Show HN: Recall – Local project memory for Claude Code",
-      "url": "https://github.com/raiyanyahya/recall",
-      "description": "Show HN: Recall – Local project memory for Claude Code",
-      "stars": 119,
-      "topics": [
-        "AI",
-        "Tech"
-      ],
-      "language": "Article",
-      "updated": "2026-06-22",
-      "homepage": "https://github.com/raiyanyahya/recall",
+      "homepage": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
       "license": ""
     },
     {
@@ -630,7 +547,7 @@
       "name": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185071,
+      "stars": 185074,
       "topics": [
         "agentic-ai",
         "agents",
@@ -655,7 +572,7 @@
       "name": "langflow-ai/langflow",
       "url": "https://github.com/langflow-ai/langflow",
       "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "stars": 149937,
+      "stars": 149943,
       "topics": [
         "agents",
         "chatgpt",
@@ -675,7 +592,7 @@
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts",
-      "stars": 141025,
+      "stars": 141029,
       "topics": [
         "ai",
         "bolt",
@@ -709,7 +626,7 @@
       "name": "fighting41love/funNLP",
       "url": "https://github.com/fighting41love/funNLP",
       "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取",
-      "stars": 81398,
+      "stars": 81397,
       "topics": [],
       "language": "Python",
       "updated": "2026-06-22",
@@ -722,7 +639,7 @@
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 72981,
+      "stars": 73061,
       "topics": [
         "agent",
         "agentic",
@@ -754,7 +671,7 @@
       "name": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 65512,
+      "stars": 65521,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -785,7 +702,7 @@
       "name": "dbeaver/dbeaver",
       "url": "https://github.com/dbeaver/dbeaver",
       "description": "Free universal database tool and SQL client",
-      "stars": 50670,
+      "stars": 50671,
       "topics": [
         "ai",
         "database",
@@ -817,7 +734,7 @@
       "name": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 46210,
+      "stars": 46554,
       "topics": [
         "agent",
         "ai",
@@ -851,7 +768,7 @@
       "name": "zhayujie/CowAgent",
       "url": "https://github.com/zhayujie/CowAgent",
       "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 45550,
+      "stars": 45553,
       "topics": [
         "ai",
         "ai-agent",
@@ -881,7 +798,7 @@
       "name": "HKUDS/nanobot",
       "url": "https://github.com/HKUDS/nanobot",
       "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 44555,
+      "stars": 44572,
       "topics": [
         "ai",
         "ai-agent",
@@ -941,7 +858,7 @@
       "name": "Crosstalk-Solutions/project-nomad",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": 31547,
+      "stars": 31568,
       "topics": [],
       "language": "TypeScript",
       "updated": "2026-06-22",
@@ -954,7 +871,7 @@
       "name": "ComposioHQ/composio",
       "url": "https://github.com/ComposioHQ/composio",
       "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
-      "stars": 28894,
+      "stars": 28897,
       "topics": [
         "agentic-ai",
         "agents",
@@ -985,7 +902,7 @@
       "name": "googleworkspace/cli",
       "url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 27207,
+      "stars": 27210,
       "topics": [
         "agent-skills",
         "ai-agent",
@@ -1015,7 +932,7 @@
       "name": "yamadashy/repomix",
       "url": "https://github.com/yamadashy/repomix",
       "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
-      "stars": 26475,
+      "stars": 26477,
       "topics": [
         "ai",
         "anthropic",
