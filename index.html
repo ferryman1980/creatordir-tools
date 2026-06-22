@@ -519,8 +519,39 @@ Browse by Category</h2>
 <script src="js/main.js"></script>
 <script src="js/smart-bar.js"></script>
   <script src="js/affiliate-widget.js"></script>
+
+<!-- Exit-Intent Popup -->
+<div id="exitPopup" style="display:none;position:fixed;bottom:0;left:0;right:0;background:linear-gradient(135deg,#1e293b,#0f172a);border-top:2px solid #e94560;padding:1.5rem;z-index:1000;text-align:center;box-shadow:0 -4px 20px rgba(0,0,0,0.5);animation:slideUp 0.5s">
+  <div style="max-width:600px;margin:0 auto">
+    <h3 style="color:#e94560;margin:0 0 0.5rem">🔥 Hostinger 60% OFF - Last Chance!</h3>
+    <p style="color:#94a3b8;margin:0 0 1rem">Get premium web hosting at the lowest price ever. Limited time offer.</p>
+    <a href="https://www.hostinger.com?REFERRALCODE=ECA346010F8J" target="_blank" rel="nofollow" style="display:inline-block;background:#e94560;color:white;padding:12px 32px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.1rem">🚀 Claim 60% Off Now</a>
+    <button onclick="document.getElementById('"'"'exitPopup'"'"').style.display='"'"'none'"'"'" style="display:block;margin:0.5rem auto 0;background:none;border:none;color:#64748b;cursor:pointer;font-size:0.85rem">No thanks, I'"'"'ll pay full price later</button>
+  </div>
+</div>
+
+<script>
+// Exit-intent detection
+(function(){
+  var shown = false;
+  document.addEventListener('"'"'mouseleave'"'"', function(e){
+    if(shown) return;
+    if(e.clientY > 0) return;
+    shown = true;
+    document.getElementById('"'"'exitPopup'"'"').style.display = '"'"'block'"'"';
+  });
+})();
+</script>
+
+<style>
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+</style>
 </body>
 </html>
+
 
 
 
