@@ -1,0 +1,57 @@
+[
+  {
+    "step": "github_issue",
+    "result": {
+      "status": "navigate_only",
+      "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fferryman1980%2Fcreatordir-tools%2Fissues%2Fnew"
+    }
+  },
+  {
+    "step": "submit_1",
+    "dir": "AI Wizard",
+    "result": {
+      "status": "error",
+      "time": "2026-06-23T01:21:16.591071",
+      "fields_found": {
+        "name": false,
+        "url": false,
+        "description": false
+      },
+      "submitted": false,
+      "final_url": "",
+      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aizwizard.com/submit\nCall log:\n  - navigating to \"https://aizwizard.com/submit\", waiting until \"domcontentloaded\"\n"
+    }
+  },
+  {
+    "step": "submit_2",
+    "dir": "AI Tool Guru",
+    "result": {
+      "status": "error",
+      "time": "2026-06-23T01:21:16.826743",
+      "fields_found": {
+        "name": false,
+        "url": false,
+        "description": false
+      },
+      "submitted": false,
+      "final_url": "",
+      "error": "Page.goto: Navigation to \"https://aitoolguru.com/submit-tool\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://aitoolguru.com/submit-tool\", waiting until \"domcontentloaded\"\n"
+    }
+  },
+  {
+    "step": "submit_3",
+    "dir": "Futurepedia",
+    "result": {
+      "status": "error",
+      "time": "2026-06-23T01:21:18.380800",
+      "fields_found": {
+        "name": false,
+        "url": false,
+        "description": false
+      },
+      "submitted": false,
+      "final_url": "",
+      "error": "Page.goto: Navigation to \"https://www.futurepedia.io/submit-tool\" is interrupted by another navigation to \"https://aitoolguru.com/submit-tool\"\nCall log:\n  - navigating to \"https://www.futurepedia.io/submit-tool\", waiting until \"domcontentloaded\"\n"
+    }
+  }
+]
