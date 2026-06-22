@@ -9,49 +9,35 @@
   {
     "step": "submit_1",
     "dir": "AI Wizard",
+    "url": "https://aizwizard.com/submit",
     "result": {
-      "status": "error",
-      "time": "2026-06-23T01:21:16.591071",
+      "status": "visited",
+      "time": "2026-06-23T01:26:14.376481",
       "fields_found": {
         "name": false,
         "url": false,
         "description": false
       },
       "submitted": false,
-      "final_url": "",
-      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://aizwizard.com/submit\nCall log:\n  - navigating to \"https://aizwizard.com/submit\", waiting until \"domcontentloaded\"\n"
+      "final_url": "https://www.aicontentfy.com/tool-submission",
+      "has_form": false
     }
   },
   {
     "step": "submit_2",
     "dir": "AI Tool Guru",
+    "url": "https://aitoolguru.com/submit-tool",
     "result": {
-      "status": "error",
-      "time": "2026-06-23T01:21:16.826743",
+      "status": "visited",
+      "time": "2026-06-23T01:26:34.547681",
       "fields_found": {
         "name": false,
         "url": false,
         "description": false
       },
       "submitted": false,
-      "final_url": "",
-      "error": "Page.goto: Navigation to \"https://aitoolguru.com/submit-tool\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://aitoolguru.com/submit-tool\", waiting until \"domcontentloaded\"\n"
-    }
-  },
-  {
-    "step": "submit_3",
-    "dir": "Futurepedia",
-    "result": {
-      "status": "error",
-      "time": "2026-06-23T01:21:18.380800",
-      "fields_found": {
-        "name": false,
-        "url": false,
-        "description": false
-      },
-      "submitted": false,
-      "final_url": "",
-      "error": "Page.goto: Navigation to \"https://www.futurepedia.io/submit-tool\" is interrupted by another navigation to \"https://aitoolguru.com/submit-tool\"\nCall log:\n  - navigating to \"https://www.futurepedia.io/submit-tool\", waiting until \"domcontentloaded\"\n"
+      "final_url": "https://forsale.godaddy.com/forsale/aicollection.org?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
+      "has_form": false
     }
   }
 ]

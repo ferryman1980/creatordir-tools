@@ -1,4 +1,4 @@
-﻿import os, re
+import os, re
 
 DIR = r"D:\项目\工作区\工作5\articles"
 TEMPLATE_FILE = os.path.join(DIR, "ai-article-writer-2026.html")
