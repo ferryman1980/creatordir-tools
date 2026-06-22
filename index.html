@@ -526,7 +526,7 @@ Browse by Category</h2>
     <h3 style="color:#e94560;margin:0 0 0.5rem">🔥 Hostinger 60% OFF - Last Chance!</h3>
     <p style="color:#94a3b8;margin:0 0 1rem">Get premium web hosting at the lowest price ever. Limited time offer.</p>
     <a href="https://www.hostinger.com?REFERRALCODE=ECA346010F8J" target="_blank" rel="nofollow" style="display:inline-block;background:#e94560;color:white;padding:12px 32px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1.1rem">🚀 Claim 60% Off Now</a>
-    <button onclick="document.getElementById('"'"'exitPopup'"'"').style.display='"'"'none'"'"'" style="display:block;margin:0.5rem auto 0;background:none;border:none;color:#64748b;cursor:pointer;font-size:0.85rem">No thanks, I'"'"'ll pay full price later</button>
+    <button onclick="document.getElementById('exitPopup').style.display='none'" style="display:block;margin:0.5rem auto 0;background:none;border:none;color:#64748b;cursor:pointer;font-size:0.85rem">No thanks, I'll pay full price later</button>
   </div>
 </div>
 
@@ -534,11 +534,11 @@ Browse by Category</h2>
 // Exit-intent detection
 (function(){
   var shown = false;
-  document.addEventListener('"'"'mouseleave'"'"', function(e){
+  document.addEventListener('mouseleave', function(e){
     if(shown) return;
     if(e.clientY > 0) return;
     shown = true;
-    document.getElementById('"'"'exitPopup'"'"').style.display = '"'"'block'"'"';
+    document.getElementById('exitPopup').style.display = 'block';
   });
 })();
 </script>
