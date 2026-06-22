@@ -1,0 +1,151 @@
+{
+  "tools": [
+    {
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "desc": "AI writing assistant by OpenAI",
+      "category": "writing",
+      "download": ""
+    },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "desc": "Anthropic AI for long-form content",
+      "category": "writing",
+      "download": ""
+    },
+    {
+      "name": "Jasper",
+      "url": "https://www.jasper.ai",
+      "desc": "AI copywriting platform",
+      "category": "writing",
+      "download": ""
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://deepseek.com",
+      "desc": "Open-source LLM",
+      "category": "writing",
+      "download": ""
+    },
+    {
+      "name": "Midjourney",
+      "url": "https://www.midjourney.com",
+      "desc": "AI image generation V7",
+      "category": "image",
+      "download": ""
+    },
+    {
+      "name": "Canva AI",
+      "url": "https://www.canva.com",
+      "desc": "AI-powered design",
+      "category": "image",
+      "download": ""
+    },
+    {
+      "name": "Stable Diffusion",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "desc": "Open-source image gen",
+      "category": "image",
+      "download": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases"
+    },
+    {
+      "name": "CapCut",
+      "url": "https://www.capcut.com",
+      "desc": "Free AI video editor",
+      "category": "video",
+      "download": "https://www.capcut.com/download"
+    },
+    {
+      "name": "Runway",
+      "url": "https://runwayml.com",
+      "desc": "AI video generation",
+      "category": "video",
+      "download": ""
+    },
+    {
+      "name": "ElevenLabs",
+      "url": "https://elevenlabs.io",
+      "desc": "AI voiceover & cloning",
+      "category": "audio",
+      "download": ""
+    },
+    {
+      "name": "Suno",
+      "url": "https://suno.com",
+      "desc": "AI music generation",
+      "category": "audio",
+      "download": ""
+    },
+    {
+      "name": "Descript",
+      "url": "https://www.descript.com",
+      "desc": "AI audio/video editor",
+      "category": "audio",
+      "download": "https://www.descript.com/download"
+    },
+    {
+      "name": "Whisper",
+      "url": "https://github.com/openai/whisper",
+      "desc": "Open-source speech recognition",
+      "category": "audio",
+      "download": "https://github.com/openai/whisper/releases"
+    },
+    {
+      "name": "Google Search Console",
+      "url": "https://search.google.com/search-console",
+      "desc": "Free SEO tool",
+      "category": "marketing",
+      "download": ""
+    },
+    {
+      "name": "Google Analytics",
+      "url": "https://analytics.google.com",
+      "desc": "Website analytics",
+      "category": "marketing",
+      "download": ""
+    },
+    {
+      "name": "Mailchimp",
+      "url": "https://mailchimp.com",
+      "desc": "Email marketing",
+      "category": "marketing",
+      "download": ""
+    },
+    {
+      "name": "Buffer",
+      "url": "https://buffer.com",
+      "desc": "Social media scheduler",
+      "category": "marketing",
+      "download": ""
+    },
+    {
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
+      "desc": "AI code assistant",
+      "category": "code",
+      "download": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
+    },
+    {
+      "name": "Codex CLI",
+      "url": "https://openai.com/index/codex-cli/",
+      "desc": "Open-source AI coding agent",
+      "category": "code",
+      "download": "https://github.com/openai/codex-cli"
+    },
+    {
+      "name": "Cursor",
+      "url": "https://www.cursor.com",
+      "desc": "AI-native code editor",
+      "category": "code",
+      "download": "https://www.cursor.com/downloads"
+    },
+    {
+      "name": "Windsurf",
+      "url": "https://codeium.com/windsurf",
+      "desc": "Free AI coding assistant",
+      "category": "code",
+      "download": "https://codeium.com/windsurf/download"
+    }
+  ]
+}

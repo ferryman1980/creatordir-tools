@@ -21,3 +21,4 @@ crawler_last_run.log
 # Audit scripts (temp)
 _audit*.py
 _fix*.py
+.vercel

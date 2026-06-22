@@ -1,0 +1,382 @@
+{
+  "generated": "2026-06-12",
+  "description": "Affiliate links for popular AI tools. URLs use /go/ system for centralized management.",
+  "disclosure": "Some links on this page are affiliate links. We may earn a commission at no extra cost to you.",
+  "affiliates": [
+    {
+      "keywords": [
+        "chatgpt",
+        "openai",
+        "gpt"
+      ],
+      "name": "ChatGPT",
+      "url": "/go/?to=chatgpt",
+      "type": "referral",
+      "commission": "Free tier available, Pro at $20/mo"
+    },
+    {
+      "keywords": [
+        "claude",
+        "anthropic"
+      ],
+      "name": "Claude by Anthropic",
+      "url": "/go/?to=claude",
+      "type": "referral",
+      "commission": "Free tier available, Pro at $20/mo"
+    },
+    {
+      "keywords": [
+        "midjourney"
+      ],
+      "name": "Midjourney",
+      "url": "/go/?to=midjourney",
+      "type": "referral",
+      "commission": "From $10/mo"
+    },
+    {
+      "keywords": [
+        "jasper",
+        "jarvis"
+      ],
+      "name": "Jasper AI",
+      "url": "/go/?to=jasper",
+      "type": "affiliate",
+      "commission": "30% commission on first purchase"
+    },
+    {
+      "keywords": [
+        "copy.ai",
+        "copyai"
+      ],
+      "name": "Copy.ai",
+      "url": "/go/?to=copyai",
+      "type": "affiliate",
+      "commission": "30% recurring commission"
+    },
+    {
+      "keywords": [
+        "writesonic"
+      ],
+      "name": "Writesonic",
+      "url": "/go/?to=writesonic",
+      "type": "affiliate",
+      "commission": "20-30% commission"
+    },
+    {
+      "keywords": [
+        "elevenlabs",
+        "eleven labs",
+        "voice cloning"
+      ],
+      "name": "ElevenLabs",
+      "url": "/go/?to=elevenlabs",
+      "type": "referral",
+      "commission": "Free tier, Pro at $5/mo"
+    },
+    {
+      "keywords": [
+        "canva"
+      ],
+      "name": "Canva",
+      "url": "/go/?to=canva",
+      "type": "referral",
+      "commission": "Free tier, Pro at $13/mo"
+    },
+    {
+      "keywords": [
+        "runway",
+        "runwayml"
+      ],
+      "name": "RunwayML",
+      "url": "/go/?to=runway",
+      "type": "referral",
+      "commission": "Free tier, Pro at $15/mo"
+    },
+    {
+      "keywords": [
+        "synthesia"
+      ],
+      "name": "Synthesia",
+      "url": "/go/?to=synthesia",
+      "type": "affiliate",
+      "commission": "30% commission"
+    },
+    {
+      "keywords": [
+        "murf"
+      ],
+      "name": "Murf AI",
+      "url": "/go/?to=murf",
+      "type": "affiliate",
+      "commission": "25% commission"
+    },
+    {
+      "keywords": [
+        "descript"
+      ],
+      "name": "Descript",
+      "url": "/go/?to=descript",
+      "type": "referral",
+      "commission": "Free tier, Pro at $24/mo"
+    },
+    {
+      "keywords": [
+        "grammarly"
+      ],
+      "name": "Grammarly",
+      "url": "/go/?to=grammarly",
+      "type": "affiliate",
+      "commission": "Up to $50 per referral"
+    },
+    {
+      "keywords": [
+        "semrush"
+      ],
+      "name": "Semrush",
+      "url": "/go/?to=semrush",
+      "type": "affiliate",
+      "commission": "40% recurring commission"
+    },
+    {
+      "keywords": [
+        "ahrefs"
+      ],
+      "name": "Ahrefs",
+      "url": "/go/?to=ahrefs",
+      "type": "referral",
+      "commission": "From $99/mo"
+    },
+    {
+      "keywords": [
+        "stability.ai",
+        "stable diffusion",
+        "stability"
+      ],
+      "name": "Stability AI",
+      "url": "/go/?to=stability",
+      "type": "referral",
+      "commission": "Free tier, Pro from $20/mo"
+    },
+    {
+      "keywords": [
+        "github copilot",
+        "copilot"
+      ],
+      "name": "GitHub Copilot",
+      "url": "/go/?to=copilot",
+      "type": "referral",
+      "commission": "From $10/mo"
+    },
+    {
+      "keywords": [
+        "notion"
+      ],
+      "name": "Notion AI",
+      "url": "/go/?to=notion",
+      "type": "referral",
+      "commission": "Free tier, AI add-on from $10/mo"
+    },
+    {
+      "keywords": [
+        "hugging face",
+        "huggingface"
+      ],
+      "name": "Hugging Face",
+      "url": "/go/?to=huggingface",
+      "type": "referral",
+      "commission": "Free tier, Pro from $9/mo"
+    },
+    {
+      "keywords": [
+        "perplexity"
+      ],
+      "name": "Perplexity AI",
+      "url": "/go/?to=perplexity",
+      "type": "referral",
+      "commission": "Free tier, Pro at $20/mo"
+    },
+    {
+      "keywords": [
+        "pictory"
+      ],
+      "name": "Pictory AI",
+      "url": "/go/?to=pictory",
+      "type": "affiliate",
+      "commission": "30% recurring"
+    },
+    {
+      "keywords": [
+        "invideo"
+      ],
+      "name": "InVideo",
+      "url": "/go/?to=invideo",
+      "type": "affiliate",
+      "commission": "30% recurring"
+    },
+    {
+      "keywords": [
+        "rytr"
+      ],
+      "name": "Rytr",
+      "url": "/go/?to=rytr",
+      "type": "affiliate",
+      "commission": "30% commission"
+    },
+    {
+      "keywords": [
+        "ai writer",
+        "article forge"
+      ],
+      "name": "Article Forge",
+      "url": "/go/?to=articleforge",
+      "type": "affiliate",
+      "commission": "25% commission"
+    },
+    {
+      "keywords": [
+        "wordai"
+      ],
+      "name": "WordAI",
+      "url": "/go/?to=wordai",
+      "type": "affiliate",
+      "commission": "30% commission"
+    },
+    {
+      "keywords": [
+        "converted"
+      ],
+      "name": "Converted",
+      "url": "/go/?to=converted",
+      "type": "affiliate",
+      "commission": "30% recurring"
+    },
+    {
+      "keywords": [
+        "adcreative",
+        "ad creative"
+      ],
+      "name": "AdCreative.ai",
+      "url": "/go/?to=adcreative",
+      "type": "affiliate",
+      "commission": "30% recurring"
+    },
+    {
+      "keywords": [
+        "clipdrop"
+      ],
+      "name": "Clipdrop",
+      "url": "/go/?to=clipdrop",
+      "type": "referral",
+      "commission": "Free tier available"
+    },
+    {
+      "keywords": [
+        "leonardo"
+      ],
+      "name": "Leonardo AI",
+      "url": "/go/?to=leonardo",
+      "type": "referral",
+      "commission": "Free tier, Pro from $10/mo"
+    },
+    {
+      "keywords": [
+        "capcut"
+      ],
+      "name": "CapCut",
+      "url": "/go/?to=capcut",
+      "type": "referral",
+      "commission": "Free tier, Pro at $7.99/mo"
+    },
+    {
+      "keywords": [
+        "veed"
+      ],
+      "name": "VEED.IO",
+      "url": "/go/?to=veed",
+      "type": "affiliate",
+      "commission": "20% recurring"
+    },
+    {
+      "keywords": [
+        "opus",
+        "opus clip"
+      ],
+      "name": "Opus Clip",
+      "url": "/go/?to=opus",
+      "type": "affiliate",
+      "commission": "30% commission"
+    },
+    {
+      "keywords": [
+        "zapier"
+      ],
+      "name": "Zapier",
+      "url": "/go/?to=zapier",
+      "type": "affiliate",
+      "commission": "30% recurring"
+    },
+    {
+      "keywords": [
+        "make.com",
+        "integromat"
+      ],
+      "name": "Make",
+      "url": "/go/?to=make",
+      "type": "affiliate",
+      "commission": "30% recurring"
+    },
+    {
+      "keywords": [
+        "buzzsprout"
+      ],
+      "name": "Buzzsprout",
+      "url": "/go/?to=buzzsprout",
+      "type": "affiliate",
+      "commission": "Up to $30 per referral"
+    },
+    {
+      "keywords": [
+        "transistor"
+      ],
+      "name": "Transistor",
+      "url": "/go/?to=transistor",
+      "type": "affiliate",
+      "commission": "30% commission"
+    },
+    {
+      "keywords": [
+        "showit"
+      ],
+      "name": "Showit",
+      "url": "/go/?to=showit",
+      "type": "affiliate",
+      "commission": "20% commission"
+    },
+    {
+      "keywords": [
+        "hostinger",
+        "web hosting",
+        "hosting"
+      ],
+      "name": "Hostinger",
+      "url": "/go/?to=hostinger",
+      "type": "affiliate",
+      "commission": "Up to 60% commission"
+    }
+  ],
+  "generic_banners": [
+    {
+      "name": "Hostinger Web Hosting",
+      "url": "/go/?to=hostinger",
+      "type": "affiliate",
+      "commission": "Great for hosting your AI projects"
+    },
+    {
+      "name": "DigitalOcean",
+      "url": "/go/?to=digitalocean",
+      "type": "referral",
+      "commission": "$200 free credit for new users"
+    }
+  ],
+  "total": 37
+}

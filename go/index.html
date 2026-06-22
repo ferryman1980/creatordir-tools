@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Redirecting...</title>
+<meta name="robots" content="noindex, nofollow">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #0f172a; color: #e2e8f0;
+  display: flex; align-items: center; justify-content: center;
+  min-height: 100vh; text-align: center;
+}
+.container { padding: 2rem; max-width: 500px; }
+.spinner { width: 40px; height: 40px; border: 3px solid #1e293b; border-top: 3px solid #8b5cf6; border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 1.5rem; }
+@keyframes spin { to { transform: rotate(360deg); } }
+h2 { margin-bottom: 0.5rem; color: #f1f5f9; }
+p { color: #64748b; font-size: 0.9rem; }
+a { color: #8b5cf6; }
+</style>
+
+<!-- Vercel Web Analytics -->
+<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>
+<script defer src="/_vercel/insights/script.js"></script>
+</head>
+<body>
+<div class="container">
+  <div class="spinner"></div>
+  <h2>Redirecting you...</h2>
+  <p>You are being redirected to the recommended tool.</p>
+  <p style="margin-top:1rem;font-size:0.8rem;color:#475569">
+    <span id="status">Loading...</span>
+  </p>
+</div>
+<script>
+(function(){
+  var links = null;
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '/go/links.json', true);
+  xhr.onload = function() {
+    if (xhr.status === 200) {
+      try { links = JSON.parse(xhr.responseText); } catch(e) {}
+    }
+    redirect();
+  };
+  xhr.onerror = function() { redirect(); };
+  xhr.send();
+
+  function redirect() {
+    var params = new URLSearchParams(window.location.search);
+    var key = params.get('to') || '';
+    var url = (links && links[key]) ? links[key] : null;
+
+    if (!url) {
+      document.getElementById('status').textContent = 'Link not found. Redirecting to homepage...';
+      setTimeout(function(){ window.location.href = '/'; }, 2000);
+      return;
+    }
+
+    // Track click in localStorage
+    try {
+      var clicks = JSON.parse(localStorage.getItem('go_clicks') || '{}');
+      clicks[key] = (clicks[key] || 0) + 1;
+      localStorage.setItem('go_clicks', JSON.stringify(clicks));
+    } catch(e) {}
+
+    document.getElementById('status').textContent = '→ Going to ' + key + '...';
+    setTimeout(function(){ window.location.href = url; }, 500);
+  }
+})();
+</script>
+</body>
+</html>

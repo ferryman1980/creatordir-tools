@@ -1,0 +1,81 @@
+﻿═══════════════════════════════════════════════════════════
+  CreatorAI Tools - 推广文案批量输出
+  网站：https://creatordir-tools.vercel.app
+  生成日期：2026-06-13
+═══════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+一、知乎 (Zhihu) — 10篇 · 80-100字/篇 · 深度分享风格
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【知乎 #1】最近把主流 AI 写作工具都测了一遍，ChatGPT、Claude、Jasper…从脚本到博客，每个工具的价格、优缺点都做了评分表，做内容的朋友直接抄作业：https://creatordir-tools.vercel.app
+
+【知乎 #2】做短视频最头疼剪辑配音，我试了一套免费 AI 工作流：CapCut 自动字幕 + ElevenLabs 配音 + Canva 封面，一条视频 30 分钟搞定。步骤和链接都整理了：https://creatordir-tools.vercel.app
+
+【知乎 #3】Midjourney 还是 Canva AI？封面设计选 Canva 更快，创意视觉 Midjourney 上限更高。我把两个工具的详细对比做成表格，价格、出图质量一目了然，自取：https://creatordir-tools.vercel.app
+
+【知乎 #4】好工具不在多，找到适合自己的工作流才重要。CreatorAI Tools 收录 54 款实测 AI 工具，分写作、图片、视频等 7 个分类，有价格和真实评价，帮你少走弯路：https://creatordir-tools.vercel.app
+
+【知乎 #5】我做 YouTube 的 AI 工作流：ChatGPT 写脚本 → Canva 做缩略图 → CapCut 剪辑 → ElevenLabs 配音 → Suno 做 BGM。全套月费不到 200，效率翻 3 倍：https://creatordir-tools.vercel.app
+
+【知乎 #6】想学 AI 工具不知从哪入手？CreatorAI Tools 有 13 篇实战指南，从"30 天用 ChatGPT"到"免费 AI 视频剪辑"，全是实操经验，新手一步步跟着学：https://creatordir-tools.vercel.app
+
+【知乎 #7】用 ElevenLabs 做声音克隆录了 50 条视频，没人发现不是真声。Suno 生成 BGM 也达商用级。这些 AI 音频工具的教程和价格我都测过了：https://creatordir-tools.vercel.app
+
+【知乎 #8】工具选错最费钱。CreatorAI Tools 每个工具都有真实评测，ChatGPT vs Claude、Canva vs Midjourney、CapCut vs Runway 都有对比。目前 54 款工具完全免费：https://creatordir-tools.vercel.app
+
+【知乎 #9】推荐一个提升内容效率的神器合集。按工作流分类推荐，做短视频直接告诉你用哪几个工具搭配最合适，价位功能全写清楚，一站式解决选择困难：https://creatordir-tools.vercel.app
+
+【知乎 #10】我搭了一套 AI 内容流水线，日产出从 3 条提到 10 条。CreatorAI Tools 有《用 ChatGPT 30 天》实战指南，写了每天的 prompt 模板和效率提升方法：https://creatordir-tools.vercel.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+二、微博 (Weibo) — 10篇 · 50-70字/篇 · 简洁有力
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【微博 #1】收藏一个 AI 工具导航站📚 54 款工具实测，写作剪辑全有，标了价格优缺点，做内容的直接抄👉 https://creatordir-tools.vercel.app
+
+【微博 #2】做短视频福音🎬 CapCut + ElevenLabs + Canva 免费 AI 剪辑配音方案，30 分钟出片，教程在👉 https://creatordir-tools.vercel.app
+
+【微博 #3】ChatGPT 写脚本、Midjourney 做图、Suno 做 BGM，一个站配齐🎯 54 款 AI 工具实测评价，免费使用：https://creatordir-tools.vercel.app
+
+【微博 #4】别花冤枉钱💸 CreatorAI Tools 每个工具都标了价格和优缺点，帮你选最合适的，还有 13 篇免费教程：https://creatordir-tools.vercel.app
+
+【微博 #5】用 ElevenLabs 克隆声音做视频，50 条没人发现是 AI🎤 配音教程和工具链接整理好了：https://creatordir-tools.vercel.app
+
+【微博 #6】自媒体效率工具箱⚡ ChatGPT × Canva × CapCut 工作流，效率翻 3 倍，按场景分类不用一个个搜：https://creatordir-tools.vercel.app
+
+【微博 #7】想做 AI 视频看这里📹 CreatorAI Tools 有 22 个免费教程，从入门到进阶带步骤截图：https://creatordir-tools.vercel.app
+
+【微博 #8】Canva 封面 vs Midjourney 创意？这个站做了详细对比🧐 价格功能一目了然，还有 GitHub 排行：https://creatordir-tools.vercel.app
+
+【微博 #9】宝藏 AI 导航站📌 分类清晰评测真实，写作/视频/音频/设计全覆盖，做内容的码住：https://creatordir-tools.vercel.app
+
+【微博 #10】Suno 做视频 BGM🎵 AI 生成质量不输商用。CreatorAI Tools 整理了好用的 AI 音频工具清单：https://creatordir-tools.vercel.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+三、小红书 (Xiaohongshu) — 10篇 · 60-80字/篇 · 潮流 Emoji 风格
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【小红书 #1】🔥挖到宝藏 AI 工具站！做自媒体的直接抄💯 54 款实测工具，写作到剪辑全免费，收藏就对了💪 #AI工具 #自媒体 https://creatordir-tools.vercel.app
+
+【小红书 #2】😱家人们谁懂啊！这个 AI 导航站太全了吧✨ ChatGPT 写脚本、CapCut 剪视频、ElevenLabs 配音，还附 13 篇新手教程🔥 #宝藏网站 https://creatordir-tools.vercel.app
+
+【小红书 #3】💸别乱买 AI 工具了！54 款价格全标了📋 哪个免费、哪个有坑全写清楚，帮你省一大笔💰 #省钱 #AI工具推荐 https://creatordir-tools.vercel.app
+
+【小红书 #4】🎬做短视频秘密武器！CapCut + ElevenLabs 免费做出 10w+ 播放🔥 教程步骤都在这个站里，快去抄作业📝 #短视频运营 https://creatordir-tools.vercel.app
+
+【小红书 #5】📢强烈安利！Canva AI 封面 + ChatGPT 文案 + Suno BGM 全配齐⚡一个站搞定所有，效率拉满🚀 #AI创作 #效率工具 https://creatordir-tools.vercel.app
+
+【小红书 #6】🤫宝藏发现！声音克隆 + AI 配音全在一个站里👀 ElevenLabs 克隆声音再不用开口录视频，附教程💯 #AI配音 #声音克隆 https://creatordir-tools.vercel.app
+
+【小红书 #7】⚡自媒体人效率神器！按工作流推荐工具组合，文案→做图→剪辑→数据分析一站搞定📊 #自媒体工具 #工作效率 https://creatordir-tools.vercel.app
+
+【小红书 #8】🎯不会选 AI 工具？ChatGPT vs Claude、Canva vs Midjourney 对比全在这里⚖️ 选择困难症闭眼抄！ #AI测评 #工具推荐 https://creatordir-tools.vercel.app
+
+【小红书 #9】🌟宝藏级 AI 导航站！7 大分类 54 款工具周周更新🔥 22 个免费教程从入门到进阶，必须收藏📌 #教程资源 https://creatordir-tools.vercel.app
+
+【小红书 #10】📝每天 10 条内容的秘密！ChatGPT × Canva × CapCut 黄金搭配💡 效率翻 3 倍，教程整理好了码住🚀 #内容创作 https://creatordir-tools.vercel.app
+
+═══════════════════════════════════════════════════════════
+  共 30 篇 · 覆盖 3 个平台 · 不同角度
+═══════════════════════════════════════════════════════════

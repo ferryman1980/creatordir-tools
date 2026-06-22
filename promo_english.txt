@@ -1,0 +1,230 @@
+============================================
+  PROMOTIONAL POSTS — creatordir-tools.vercel.app
+  15 Posts for Content Creator AI Tools Directory
+============================================
+
+============================================
+  PLATFORM: TWITTER / X (7 POSTS)
+============================================
+
+--- Post 1 (General Launch) ---
+
+Curated 320+ AI tools for content creators 📝🎨🎬🎙🎤
+Writing, design, video & audio — all tested, ranked, and reviewed.
+Free directory, updated weekly 👇
+https://creatordir-tools.vercel.app
+
+#AI #AITools #ContentCreation #Creators
+
+--- Post 2 (AI Writing Tools) ---
+
+Stop staring at a blank page. 📝
+
+Our AI writing tools guide covers 80+ apps for copywriting, scripting, blogging & SEO — with real pricing and honest ratings.
+
+Find your perfect writing assistant ⬇️
+https://creatordir-tools.vercel.app
+
+#AIWriting #ContentCreation #AITools
+
+--- Post 3 (AI Image Generators) ---
+
+Design without the struggle 🎨
+
+Comparing Midjourney vs DALL-E vs Stable Diffusion vs 50+ more?
+We ranked them by quality, speed, price & features so you don't have to.
+
+Browse the full list 👇
+https://creatordir-tools.vercel.app
+
+#AIImage #GenerativeAI #Creators #AITools
+
+--- Post 4 (AI Video Tools) ---
+
+From script to screen in minutes 🎬
+
+AI video editors, text-to-video generators, auto-subtitling & more — 70+ tools reviewed and compared for content creators.
+
+Level up your video workflow 👇
+https://creatordir-tools.vercel.app
+
+#AIVideo #VideoEditing #ContentCreation #AITools
+
+--- Post 5 (AI Audio & Podcasting) ---
+
+Your voice, amplified 🎙🎤
+
+AI voice cloning, text-to-speech, podcast editing, music generation — 60+ audio tools hand-picked for creators.
+
+No fluff, just tools that work 👇
+https://creatordir-tools.vercel.app
+
+#AIAudio #Podcasting #MusicAI #Creators
+
+--- Post 6 (Free Tools List) ---
+
+Best things in life are free ✨
+
+Our directory has a dedicated filter for free & freemium AI tools. 120+ powerful apps for content creators — zero cost.
+
+Start saving 👇
+https://creatordir-tools.vercel.app
+
+#FreeTools #AITools #ContentCreator #Productivity
+
+--- Post 7 (Weekly Update Hook) ---
+
+New week, new AI tools 🔄
+
+We add 10-15 new tools every week. Bookmark the directory and never miss a game-changing app for your creator workflow.
+
+Check what's new 👇
+https://creatordir-tools.vercel.app
+
+#AI #AITools #Creators #WeeklyUpdate
+
+
+============================================
+  PLATFORM: REDDIT (5 POSTS)
+============================================
+
+--- Post 1 (r/artificial — AI Tools Directory) ---
+
+Title: Built a free directory of 320+ AI tools for content creators — all tested and ranked
+
+Hey everyone! I have been working on a side project for the past few months: an AI tools directory specifically for content creators. It now lists 320+ tools across writing, image generation, video editing, audio production, and more.
+
+Every tool includes pricing info, a honest short review, and a category tag so you can filter exactly what you need. I update the list every week with new discoveries.
+
+Would love for you to check it out and tell me what I am missing! https://creatordir-tools.vercel.app
+
+--- Post 2 (r/AItools — AI Writing Tools Comparison) ---
+
+Title: I compared 80+ AI writing tools for creators — here is what I found
+
+There are SO many AI writing tools out right now it is overwhelming. ChatGPT, Claude, Jasper, Copy.ai, Writesonic, Rytr... and that is just the start.
+
+I spent a few weeks cataloging and comparing 80+ writing tools specifically for content creators — looking at pricing, output quality, use cases (blogging, scripting, copywriting, SEO), and platform support.
+
+The result is a curated comparison table on my directory site. No affiliate spam, just honest notes on what each tool does best and where it falls short.
+
+Check it out if you are looking for your next writing assistant: https://creatordir-tools.vercel.app
+
+--- Post 3 (r/SideProject — Sharing My Directory) ---
+
+Title: I built a side project — AI tools directory for content creators, 320+ listings and growing
+
+Been working on this in my free time over the last few months. creatordir-tools.vercel.app is a curated directory of AI tools for anyone creating content — writers, designers, video editors, podcasters, musicians.
+
+What sets it apart from other directories?
+- Hand-picked, not scraped. Every tool is reviewed by me.
+- Category filter system: writing / image / video / audio / productivity
+- Pricing tags: free, freemium, paid — with actual price ranges
+- Weekly updates with new additions
+
+Stack: Next.js + TailwindCSS, deployed on Vercel. The data lives in a JSON file that I update manually (old school, I know)
+
+Would really appreciate any feedback on the design or content! https://creatordir-tools.vercel.app
+
+--- Post 4 (r/ContentCreator — AI Workflow Tips) ---
+
+Title: My AI-powered content creation workflow — and the tools I actually use
+
+As a content creator, I have been experimenting with AI to speed up my workflow without sacrificing quality. Here is my current stack:
+
+Writing: I use a mix of Claude for long-form drafting and ChatGPT for brainstorming titles and hooks.
+
+Design: Midjourney for thumbnails and Canva AI features for quick social graphics.
+
+Video: Descript for editing (the AI filler-word removal is a lifesaver) and Opus Clip for repurposing long videos into shorts.
+
+Audio: Adobe Podcast for voice cleanup and ElevenLabs for voiceovers when I need a quick B-roll narration.
+
+I have cataloged all these and 300+ more on my free directory. If you are looking to build your own AI workflow, it might save you some research time: https://creatordir-tools.vercel.app
+
+What AI tools are you using in your content workflow?
+
+--- Post 5 (r/artificial — Free AI Tools List) ---
+
+Title: 120+ free AI tools for content creators — full list with reviews
+
+Not everyone can afford -30/month subscriptions for AI tools. So I put together a list of 120+ free and freemium AI tools that content creators can use right now without spending a dime.
+
+The list covers:
+- Free AI writing assistants (with word limits noted)
+- Free AI image generators (with resolution limits)
+- Free AI video editors and text-to-video tools
+- Free AI audio tools and TTS apps
+- Free productivity AI tools for scheduling and analytics
+
+Every entry has a note on what the free tier includes and what you are missing if you do not upgrade.
+
+Full directory here: https://creatordir-tools.vercel.app (use the Free price filter on the sidebar)
+
+
+============================================
+  PLATFORM: PRODUCT HUNT / HACKER NEWS (3 POSTS)
+============================================
+
+--- Post 1 (Product Hunt Launch Style) ---
+
+Title: CreatorDir — 320+ AI Tools for Content Creators
+
+Tagline: The free, curated directory helping content creators discover the best AI tools for writing, design, video, and audio.
+
+Description:
+CreatorDir is a hand-curated directory of 320+ AI tools built specifically for content creators. Unlike generic AI directories, every tool listed here is relevant to the content creation workflow — from brainstorming and writing to designing, recording, editing, and publishing.
+
+Key features:
+- 4 main categories: Writing (80+), Image (70+), Video (70+), Audio (60+), plus productivity tools
+- Price filters: Free, Freemium, Paid — with actual price ranges displayed
+- Honest short reviews based on hands-on testing
+- Weekly updates with 10-15 new tools added every week
+- Clean, fast interface built with Next.js
+
+Whether you are a YouTuber looking for the best AI video editor, a writer searching for the perfect AI assistant, or a designer comparing image generators — CreatorDir helps you find the right tool in seconds.
+
+https://creatordir-tools.vercel.app
+
+--- Post 2 (Hacker News — Show HN) ---
+
+Title: Show HN: CreatorDir - Curated AI Tools Directory for Content Creators
+
+I have been maintaining a directory of AI tools for content creators as a side project. It currently lists 320+ tools across writing, image generation, video editing, audio production, and productivity.
+
+What I focused on:
+- Every tool is hand-picked and tagged with real pricing (free/freemium/paid + amounts)
+- Each entry includes a short honest review based on actual use — no affiliate fluff
+- The site is fast (static-generated Next.js on Vercel) and filterable by category and price
+
+I would love feedback on:
+- Tools I should add that I have missed
+- UI/UX improvements for browsing large tool lists
+- Any content creators here — what AI tools are indispensable in your workflow?
+
+https://creatordir-tools.vercel.app
+
+--- Post 3 (Product Hunt — AI Video Tools Angle) ---
+
+Title: The Ultimate Guide to AI Video Editing Tools — 70+ Apps Compared
+
+Tagline: From text-to-video to auto-editing — find the perfect AI video tool for your content workflow.
+
+Description:
+Video content is dominating social media, but professional video editing software is expensive and has a steep learning curve. AI video tools are changing that — but with so many launching every month, how do you choose?
+
+CreatorDir AI Video Tools section covers 70+ tools across 6 subcategories:
+- Text-to-Video Generators (Sora, Runway, Pika, Kling)
+- AI Video Editors (Descript, CapCut, DaVinci Resolve AI)
+- Auto-Subtitling and Translation
+- AI Avatars and Talking Heads (HeyGen, Synthesia)
+- Video Enhancement (upscaling, color grading, stabilization)
+- Shorts and Repurposing Tools (Opus Clip, Veed)
+
+Each tool is reviewed with pricing, platform support, and a honest pros/cons breakdown. The directory is completely free to use and updated weekly.
+
+https://creatordir-tools.vercel.app
+
+============================================
+  END OF FILE
+============================================
