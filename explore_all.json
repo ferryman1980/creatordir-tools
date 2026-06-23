@@ -1,0 +1,104 @@
+{
+  "ThatAICollection": {
+    "url": "https://thataicollection.com/en/submit/",
+    "note": "Has login form",
+    "status": "pending",
+    "title": "将你出色的AI应用提交到AI收藏中",
+    "status_code": 200,
+    "has_form_tag": true,
+    "input_count": 2,
+    "has_submit_btn": true,
+    "needs_login": true
+  },
+  "AIxploria": {
+    "url": "https://www.aixploria.com/en/submit-tool",
+    "note": "Page not found - check URL",
+    "status": "pending",
+    "title": "Page not found | AIxploria",
+    "status_code": 404,
+    "has_form_tag": true,
+    "input_count": 11,
+    "has_submit_btn": true,
+    "needs_login": false
+  },
+  "SaaS Hub": {
+    "url": "https://www.saashub.com/submit",
+    "note": "Needs account",
+    "status": "pending",
+    "title": "SaaSHub 提交 - 过去30天提交的顶级产品",
+    "status_code": 200,
+    "has_form_tag": true,
+    "input_count": 2,
+    "has_submit_btn": true,
+    "needs_login": true
+  },
+  "TopAI.tools": {
+    "url": "https://www.topai.tools/submit",
+    "note": "DNS fail",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.topai.tools/submit\nCall log:\n  - navigating to "
+  },
+  "AlternativeTo": {
+    "url": "https://alternativeto.net/submit-tool/",
+    "note": "Need to check",
+    "status": "pending",
+    "title": "Page not found | AlternativeTo",
+    "status_code": 404,
+    "has_form_tag": true,
+    "input_count": 1,
+    "has_submit_btn": true,
+    "needs_login": true
+  },
+  "Futurepedia": {
+    "url": "https://www.futurepedia.io/submit-tool",
+    "note": "Need to check",
+    "status": "pending",
+    "title": "Submit Your Company, Software or AI Tool to Futurepedia",
+    "status_code": 200,
+    "has_form_tag": true,
+    "input_count": 2,
+    "has_submit_btn": true,
+    "needs_login": true
+  },
+  "EasyWithAI": {
+    "url": "https://easywithai.com/submit-ai-tool/",
+    "note": "Need to check",
+    "status": "pending",
+    "title": "页面未找到——用AI很简单",
+    "status_code": 404,
+    "has_form_tag": true,
+    "input_count": 1,
+    "has_submit_btn": true,
+    "needs_login": false
+  },
+  "AIScout": {
+    "url": "https://aiscout.net/submit/",
+    "note": "Need to check",
+    "status": "pending",
+    "title": "错误520",
+    "status_code": 520,
+    "has_form_tag": false,
+    "input_count": 0,
+    "has_submit_btn": false,
+    "needs_login": false
+  },
+  "AITopTools": {
+    "url": "https://aitoptools.com/submit/",
+    "note": "Need to check",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://aitoptools.com/submit/\", w"
+  },
+  "ThereAIForThat": {
+    "url": "https://theresanaiforthat.com/submit/",
+    "note": "Need to check",
+    "status": "pending",
+    "title": "启动你的人工智能工具 |有专门的人工智能",
+    "status_code": 200,
+    "has_form_tag": true,
+    "input_count": 23,
+    "has_submit_btn": true,
+    "needs_login": true
+  }
+}
