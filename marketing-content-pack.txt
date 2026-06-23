@@ -1,0 +1,72 @@
+=== CREATORAI TOOLS - MARKETING CONTENT PACK ===
+
+== Reddit Posts ==
+
+1. r/ArtificialIntelligence:
+Title: I built a directory of 200+ AI tools for content creators - all tested and reviewed
+Body: After months of testing AI tools, I created a curated directory at creatordir-tools.vercel.app
+Features: 200+ articles, 54 tool reviews, comparisons, and tutorials
+All free, open source on GitHub. Would love feedback!
+
+2. r/webdev:
+Title: Show HN: 200+ page AI tools directory - pure HTML/CSS, deployed on Vercel
+Body: Built a static AI tools directory with 200+ articles. 
+Tech: Pure HTML/CSS/JS, no frameworks, deployed on Vercel.
+Source: github.com/ferryman1980/creatordir-tools
+
+3. r/Entrepreneur:
+Title: Built a monetized AI directory with 200+ articles - here's my strategy
+Body: Launched creatordir-tools.vercel.app with 200+ articles
+Monetization: Affiliate marketing (Hostinger 60%, ElevenLabs)
+Strategy: Content volume + SEO = passive income
+
+== LinkedIn Posts ==
+
+Post 1:
+I curated 200+ AI tools for content creators into one free directory.
+From AI writing to video editing, find the right tool fast.
+creatordir-tools.vercel.app
+
+Post 2:
+Want to save 60% on web hosting? Hostinger is running a flash sale.
+Perfect for hosting AI projects. Check the link in my bio.
+
+== Twitter/X Posts ==
+
+1. Discover 200+ AI tools for content creators. All in one place! creatordir-tools.vercel.app
+2. New: 200+ articles comparing AI writing, design, video, and audio tools. Free directory.
+3. Hostinger 60% OFF is live! Get premium hosting at the lowest price ever.
+4. Turn text into studio-quality voiceovers with ElevenLabs. 29 languages. Try free!
+5. Built a 200+ page AI directory as a static site on Vercel. Pure HTML/CSS. Open source!
+
+== GitHub Promotion ==
+
+Repository: github.com/ferryman1980/creatordir-tools
+Create Discussions posts about:
+- Recent updates
+- New features planned
+- Request for contributions
+
+== Submit to These Platforms ==
+
+ProductHunt: producthunt.com
+IndieHackers: indiehackers.com
+HackerNews: news.ycombinator.com
+Dev.to: dev.to
+Medium: medium.com
+
+== Ko-fi Content ==
+
+ko-fi.com/kangjian
+Post updates about:
+- New articles added
+- Site improvements
+- Affiliate deals
+
+== Daily Tasks ==
+
+1. Post 1 Reddit post
+2. Post 1 LinkedIn update
+3. Submit to 2-3 AI directories
+4. Write 1 new article
+5. Check analytics
