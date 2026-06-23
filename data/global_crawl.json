@@ -1,15 +1,255 @@
 {
-  "generated": "2026-06-23T23:05:40.089662",
-  "round": 19,
-  "total": 15,
+  "generated": "2026-06-24T02:07:12.391740",
+  "round": 20,
+  "total": 32,
   "data": [
+    {
+      "source": "huggingface",
+      "id": "enzostvs/deepsite",
+      "name": "deepsite",
+      "url": "https://huggingface.co/spaces/enzostvs/deepsite",
+      "description": "docker space",
+      "stars": 16617,
+      "topics": [
+        "docker",
+        ""
+      ],
+      "language": "docker",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/enzostvs/deepsite",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "open-llm-leaderboard/open_llm_leaderboard",
+      "name": "open_llm_leaderboard",
+      "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+      "description": "docker space",
+      "stars": 14030,
+      "topics": [
+        "docker",
+        ""
+      ],
+      "language": "docker",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "jbilcke-hf/ai-comic-factory",
+      "name": "ai-comic-factory",
+      "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
+      "description": "docker space",
+      "stars": 11133,
+      "topics": [
+        "docker",
+        ""
+      ],
+      "language": "docker",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "Kwai-Kolors/Kolors-Virtual-Try-On",
+      "name": "Kolors-Virtual-Try-On",
+      "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
+      "description": "gradio space",
+      "stars": 10113,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "black-forest-labs/FLUX.1-dev",
+      "name": "FLUX.1-dev",
+      "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
+      "description": "gradio space",
+      "stars": 9474,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "mteb/leaderboard",
+      "name": "leaderboard",
+      "url": "https://huggingface.co/spaces/mteb/leaderboard",
+      "description": "docker space",
+      "stars": 7499,
+      "topics": [
+        "docker",
+        ""
+      ],
+      "language": "docker",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/mteb/leaderboard",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "dalle-mini/dalle-mini",
+      "name": "dalle-mini",
+      "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
+      "description": "static space",
+      "stars": 5690,
+      "topics": [
+        "static",
+        ""
+      ],
+      "language": "static",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "AP123/IllusionDiffusion",
+      "name": "IllusionDiffusion",
+      "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
+      "description": "gradio space",
+      "stars": 5414,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "Wan-AI/Wan2.2-Animate",
+      "name": "Wan2.2-Animate",
+      "url": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
+      "description": "gradio space",
+      "stars": 5113,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "facebook/MusicGen",
+      "name": "MusicGen",
+      "url": "https://huggingface.co/spaces/facebook/MusicGen",
+      "description": "gradio space",
+      "stars": 5074,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/facebook/MusicGen",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "name": "FLUX.1-schnell",
+      "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
+      "description": "gradio space",
+      "stars": 5072,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "lmarena-ai/arena-leaderboard",
+      "name": "arena-leaderboard",
+      "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
+      "description": "static space",
+      "stars": 4925,
+      "topics": [
+        "static",
+        ""
+      ],
+      "language": "static",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "microsoft/TRELLIS",
+      "name": "TRELLIS",
+      "url": "https://huggingface.co/spaces/microsoft/TRELLIS",
+      "description": "gradio space",
+      "stars": 4775,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/microsoft/TRELLIS",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "KingNish/OpenGPT-4o",
+      "name": "OpenGPT-4o",
+      "url": "https://huggingface.co/spaces/KingNish/OpenGPT-4o",
+      "description": "gradio space",
+      "stars": 4307,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/KingNish/OpenGPT-4o",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "nanotron/ultrascale-playbook",
+      "name": "ultrascale-playbook",
+      "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
+      "description": "static space",
+      "stars": 3901,
+      "topics": [
+        "static",
+        ""
+      ],
+      "language": "static",
+      "updated": "2026-06-24",
+      "homepage": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
+      "license": "Apache 2.0"
+    },
     {
       "source": "devto",
       "id": "3964775",
       "name": ". .. . ... . .... . .... . ... .",
       "url": "https://dev.to/lovestaco/--2kb7",
       "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "stars": 350,
+      "stars": 370,
       "topics": [
         "ai",
         " webdev",
@@ -41,6 +281,24 @@
     },
     {
       "source": "devto",
+      "id": "3968104",
+      "name": "Agents write code, but they don't remember",
+      "url": "https://dev.to/lizziepika/agents-write-code-but-they-dont-remember-4ob0",
+      "description": "Code generation is solved, but memory isn't. Here's an argument for why the SDLC is inverting with intent becoming the spine and code becoming a layer you drill into, explaining what teams lose every time an agent's reasoning disappears.",
+      "stars": 70,
+      "topics": [
+        "ai",
+        " sdlc",
+        " llms",
+        " agents"
+      ],
+      "language": "Article",
+      "updated": "2026-06-23",
+      "homepage": "https://dev.to/lizziepika/agents-write-code-but-they-dont-remember-4ob0",
+      "license": ""
+    },
+    {
+      "source": "devto",
       "id": "3964273",
       "name": "What Prime Day Taught Me About Prompt Engineering",
       "url": "https://dev.to/cseeman/what-prime-day-taught-me-about-prompt-engineering-3gek",
@@ -59,20 +317,38 @@
     },
     {
       "source": "devto",
-      "id": "3968104",
-      "name": "Agents write code, but they don't remember",
-      "url": "https://dev.to/lizziepika/agents-write-code-but-they-dont-remember-4ob0",
-      "description": "Code generation is solved, but memory isn't. Here's an argument for why the SDLC is inverting with intent becoming the spine and code becoming a layer you drill into, explaining what teams lose every time an agent's reasoning disappears.",
-      "stars": 20,
+      "id": "3969660",
+      "name": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
+      "url": "https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg",
+      "description": "AI wrote the first 80% of my feature in 10 minutes.  The code was clean. The logic made sense. The...",
+      "stars": 180,
       "topics": [
         "ai",
-        " sdlc",
-        " llms",
-        " agents"
+        " programming",
+        " productivity",
+        " softwareengineering"
       ],
       "language": "Article",
       "updated": "2026-06-23",
-      "homepage": "https://dev.to/lizziepika/agents-write-code-but-they-dont-remember-4ob0",
+      "homepage": "https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "3971451",
+      "name": "Maybe It Is Not Yet Time To Bring Every AI Demo To Production",
+      "url": "https://dev.to/marcosomma/maybe-it-is-not-yet-time-to-bring-every-ai-demo-to-production-o74",
+      "description": "There is a sentence I keep hearing in AI engineering that sounds innocent, practical, and mature:...",
+      "stars": 40,
+      "topics": [
+        "ai",
+        " programming",
+        " productivity",
+        " tutorial"
+      ],
+      "language": "Article",
+      "updated": "2026-06-23",
+      "homepage": "https://dev.to/marcosomma/maybe-it-is-not-yet-time-to-bring-every-ai-demo-to-production-o74",
       "license": ""
     },
     {
@@ -95,24 +371,6 @@
     },
     {
       "source": "devto",
-      "id": "3969660",
-      "name": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
-      "url": "https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg",
-      "description": "AI wrote the first 80% of my feature in 10 minutes.  The code was clean. The logic made sense. The...",
-      "stars": 150,
-      "topics": [
-        "ai",
-        " programming",
-        " productivity",
-        " softwareengineering"
-      ],
-      "language": "Article",
-      "updated": "2026-06-23",
-      "homepage": "https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg",
-      "license": ""
-    },
-    {
-      "source": "devto",
       "id": "3964338",
       "name": "What Happens When We Stop Asking",
       "url": "https://dev.to/eayurt/what-happens-when-we-stop-asking-37je",
@@ -126,6 +384,24 @@
       "language": "Article",
       "updated": "2026-06-22",
       "homepage": "https://dev.to/eayurt/what-happens-when-we-stop-asking-37je",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "3964392",
+      "name": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
+      "url": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
+      "description": "I was building an \"Ask This Book\" feature: readers can ask questions about a book while they're...",
+      "stars": 60,
+      "topics": [
+        "ai",
+        " dotnet",
+        " csharp",
+        " machinelearning"
+      ],
+      "language": "Article",
+      "updated": "2026-06-23",
+      "homepage": "https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p",
       "license": ""
     },
     {
@@ -148,20 +424,20 @@
     },
     {
       "source": "devto",
-      "id": "3947027",
-      "name": "How to Test Payment Flows in Mobile Apps Without Test Cards Failing Every Sprint",
-      "url": "https://dev.to/drizzdev/how-to-test-payment-flows-in-mobile-apps-without-test-cards-failing-every-sprint-287k",
-      "description": "Your payment tests passed in staging. Then PhonePe pushed an SDK update on Tuesday, the UPI intent...",
-      "stars": 350,
+      "id": "3931106",
+      "name": "The LLM Visibility Tools Cost $79/Month. Mine is Open Source.",
+      "url": "https://dev.to/dannwaneri/the-llm-visibility-tools-cost-79month-mine-is-open-source-29hb",
+      "description": "Tom Capper at a Search Engine Journal webinar last week:   \"There's no Search Console equivalent for...",
+      "stars": 60,
       "topics": [
         "ai",
-        " mobile",
-        " android",
-        " ios"
+        " seo",
+        " python",
+        " opensource"
       ],
       "language": "Article",
-      "updated": "2026-06-22",
-      "homepage": "https://dev.to/drizzdev/how-to-test-payment-flows-in-mobile-apps-without-test-cards-failing-every-sprint-287k",
+      "updated": "2026-06-23",
+      "homepage": "https://dev.to/dannwaneri/the-llm-visibility-tools-cost-79month-mine-is-open-source-29hb",
       "license": ""
     },
     {
@@ -184,24 +460,6 @@
     },
     {
       "source": "devto",
-      "id": "3970439",
-      "name": "Neander: An Agent-First Programming Language",
-      "url": "https://dev.to/newadventuresinit/neander-an-agent-first-programming-language-3i3o",
-      "description": "Last time, in Source Code as the Seam Between Systems, I closed by saying I had built a programming...",
-      "stars": 40,
-      "topics": [
-        "ai",
-        " agents",
-        " programming",
-        " neander"
-      ],
-      "language": "Article",
-      "updated": "2026-06-23",
-      "homepage": "https://dev.to/newadventuresinit/neander-an-agent-first-programming-language-3i3o",
-      "license": ""
-    },
-    {
-      "source": "devto",
       "id": "3970644",
       "name": "Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why",
       "url": "https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b",
@@ -220,56 +478,70 @@
     },
     {
       "source": "devto",
-      "id": "3968404",
-      "name": "AI Features Need Product Edges, Not Just Better Prompts",
-      "url": "https://dev.to/toddsullivan/ai-features-need-product-edges-not-just-better-prompts-18k",
-      "description": "Most AI features don't fail because the model is bad.  They fail because everything around the model...",
-      "stars": 20,
+      "id": "3970439",
+      "name": "Neander: An Agent-First Programming Language",
+      "url": "https://dev.to/newadventuresinit/neander-an-agent-first-programming-language-3i3o",
+      "description": "Last time, in Source Code as the Seam Between Systems, I closed by saying I had built a programming...",
+      "stars": 40,
       "topics": [
         "ai",
-        " swift",
-        " ios",
-        " testing"
+        " agents",
+        " programming",
+        " neander"
       ],
       "language": "Article",
       "updated": "2026-06-23",
-      "homepage": "https://dev.to/toddsullivan/ai-features-need-product-edges-not-just-better-prompts-18k",
+      "homepage": "https://dev.to/newadventuresinit/neander-an-agent-first-programming-language-3i3o",
       "license": ""
     },
     {
       "source": "devto",
-      "id": "3965839",
-      "name": "I Built the First Purely Learned Frame-by-Frame Tetris AI: Then It Started Cheating",
-      "url": "https://dev.to/stat_phantom/i-built-the-first-purely-learned-frame-by-frame-tetris-ai-then-it-started-cheating-322k",
-      "description": "Greetings all! You might know me from my Snake AI ablation series where I spent an unreasonable...",
-      "stars": 30,
+      "id": "3971891",
+      "name": "Series Teaser — 6 People, 36 Stratagems, and an AI Rabbit Hole That Keeps Getting Deeper",
+      "url": "https://dev.to/xulingfeng/series-teaser-6-people-36-stratagems-and-an-ai-rabbit-hole-that-keeps-getting-deeper-3fnm",
+      "description": "What Are the 36 Stratagems?   If you've heard of The Art of War, think of the Thirty-Six...",
+      "stars": 70,
       "topics": [
         "ai",
-        " machinelearning",
-        " deeplearning",
-        " tetris"
+        " discuss",
+        " career",
+        " programming"
       ],
       "language": "Article",
       "updated": "2026-06-23",
-      "homepage": "https://dev.to/stat_phantom/i-built-the-first-purely-learned-frame-by-frame-tetris-ai-then-it-started-cheating-322k",
+      "homepage": "https://dev.to/xulingfeng/series-teaser-6-people-36-stratagems-and-an-ai-rabbit-hole-that-keeps-getting-deeper-3fnm",
       "license": ""
     },
     {
-      "source": "devto",
-      "id": "3965241",
-      "name": "AI slop and the content treadmill every developer is on",
-      "url": "https://dev.to/jonesrussell/ai-slop-and-the-content-treadmill-every-developer-is-on-4he5",
-      "description": "Why I automated my own content pipeline, what it costs, and how developers can share their work without adding to the AI slop.",
-      "stars": 10,
+      "source": "hackernews",
+      "id": "48648039",
+      "name": "Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "description": "Claude Tag",
+      "stars": 64,
       "topics": [
-        "ai",
-        " writing",
-        " socialmedia",
-        " content"
+        "AI",
+        "Tech"
       ],
       "language": "Article",
-      "updated": "2026-06-22",
-      "homepage": "https://dev.to/jonesrussell/ai-slop-and-the-content-treadmill-every-developer-is-on-4he5",
+      "updated": "2026-06-24",
+      "homepage": "https://www.anthropic.com/news/introducing-claude-tag",
+      "license": ""
+    },
+    {
+      "source": "hackernews",
+      "id": "48643489",
+      "name": "The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "description": "The Low-Tech AI of Elden Ring",
+      "stars": 47,
+      "topics": [
+        "AI",
+        "Tech"
+      ],
+      "language": "Article",
+      "updated": "2026-06-23",
+      "homepage": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
       "license": ""
     }
   ]
