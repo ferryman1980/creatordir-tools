@@ -1,0 +1,21 @@
+{
+  "ThatAICollection": {
+    "url": "https://thataicollection.com/en/submit/",
+    "title": "Submit your Awesome AI Application to AI Collection",
+    "needs_login": true,
+    "has_form": true,
+    "status": "explored"
+  },
+  "AIxploria": {
+    "url": "https://www.aixploria.com/en/submit-tool",
+    "title": "Page not found | AIxploria",
+    "needs_login": false,
+    "has_form": true,
+    "status": "explored"
+  },
+  "TopAI.tools": {
+    "url": "https://www.topai.tools/submit",
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.topai.tools/submit\nCall log:\n  - navigating to \"https://www.topai.tools/submit\", waiting until \"domcontentloaded\"\n",
+    "status": "failed"
+  }
+}
