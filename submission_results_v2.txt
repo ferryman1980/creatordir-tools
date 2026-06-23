@@ -1,0 +1,28 @@
+AI Directory Submission v2
+==================================================
+Site: https://creatordir-tools.vercel.app
+Email: 346010735@qq.com
+
+SUBMITTED (1):
+----------------------------------------
+  Doforai | Filled 3 fields and submitted!
+
+SUBMIT CLICKED (0):
+----------------------------------------
+
+ALL RESULTS:
+----------------------------------------
+submitted            | Doforai                   | Filled 3 fields and submitted!
+error                | AI To Grow                | Page.wait_for_timeout: Connection closed while reading from the driver
+error                | AI Valley                 | BrowserContext.new_page: Connection closed while reading from the driv
+error                | Best AI To                | BrowserContext.new_page: Connection closed while reading from the driv
+error                | FindMyAITool              | BrowserContext.new_page: Connection closed while reading from the driv
+error                | Insidr AI                 | BrowserContext.new_page: Connection closed while reading from the driv
+error                | SAAS AI Tools             | BrowserContext.new_page: Connection closed while reading from the driv
+error                | TheAIGeneration           | BrowserContext.new_page: Connection closed while reading from the driv
+error                | Toolio                    | BrowserContext.new_page: Connection closed while reading from the driv
+error                | Tools AI Online           | BrowserContext.new_page: Connection closed while reading from the driv
+error                | NextPedia                 | BrowserContext.new_page: Connection closed while reading from the driv
+error                | Tool Directory AI         | BrowserContext.new_page: Connection closed while reading from the driv
+
+Total: 12 | Submitted: 1 | Clicked: 0
