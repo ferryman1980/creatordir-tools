@@ -1,0 +1,78 @@
+{
+  "AIxploria": {
+    "url": "https://www.aixploria.com/en/submit-tool",
+    "note": "Possible form on page",
+    "status": "pending",
+    "title": "页面未找到 |艾克斯普洛里亚",
+    "status_code": 404,
+    "has_form": true,
+    "input_count": 11,
+    "needs_login": false
+  },
+  "ToolScout": {
+    "url": "https://toolscout.com/submit",
+    "note": "New",
+    "status": "pending",
+    "title": "Hoffmann ToolScout",
+    "status_code": 200,
+    "has_form": false,
+    "input_count": 0,
+    "needs_login": true
+  },
+  "AIContentfy": {
+    "url": "https://aicontentfy.com/submit",
+    "note": "New",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "Page.title: Target page, context or browser has been closed"
+  },
+  "SaaS_AI_Tools": {
+    "url": "https://saasaitools.com/submit/",
+    "note": "New",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "BrowserContext.new_page: Target page, context or browser has been closed"
+  },
+  "AIToolsClub": {
+    "url": "https://aitoolsclub.com/submit/",
+    "note": "New",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "BrowserContext.new_page: Target page, context or browser has been closed"
+  },
+  "AIPicks": {
+    "url": "https://aipicks.co/submit/",
+    "note": "New",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "BrowserContext.new_page: Target page, context or browser has been closed"
+  },
+  "AIToolGuru": {
+    "url": "https://aitoolguru.com/submit/",
+    "note": "New",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "BrowserContext.new_page: Target page, context or browser has been closed"
+  },
+  "AIWizard": {
+    "url": "https://aiwizard.me/submit",
+    "note": "New",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "BrowserContext.new_page: Target page, context or browser has been closed"
+  },
+  "AICollection": {
+    "url": "https://aicollection.com/submit/",
+    "note": "New",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "BrowserContext.new_page: Target page, context or browser has been closed"
+  },
+  "ThereAIForThat": {
+    "url": "https://theresanaiforthat.com/submit/",
+    "note": "Has form, needs check",
+    "status": "pending",
+    "title": "ERROR",
+    "error": "BrowserContext.new_page: Target page, context or browser has been closed"
+  }
+}

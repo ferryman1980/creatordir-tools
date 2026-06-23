@@ -14,7 +14,7 @@
     "url": "https://www.aixploria.com/en/submit-tool",
     "note": "Page not found - check URL",
     "status": "pending",
-    "title": "Page not found | AIxploria",
+    "title": "页面未找到 |艾克斯普洛里亚",
     "status_code": 404,
     "has_form_tag": true,
     "input_count": 11,
@@ -87,8 +87,12 @@
     "url": "https://aitoptools.com/submit/",
     "note": "Need to check",
     "status": "pending",
-    "title": "ERROR",
-    "error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://aitoptools.com/submit/\", w"
+    "title": "Page not found | AITopTools",
+    "status_code": 404,
+    "has_form_tag": true,
+    "input_count": 17,
+    "has_submit_btn": true,
+    "needs_login": true
   },
   "ThereAIForThat": {
     "url": "https://theresanaiforthat.com/submit/",
