@@ -1,0 +1,69 @@
+
+==================================================
+BATCH 2 - New Directories
+==================================================
+no_form_detected          | SubmitAI                  | No visible form fields
+form_filled               | Doforai                   | Filled 2 fields
+form_filled               | AI To Grow                | Filled 5 fields
+form_found_but_empty      | AI Tool Board             | Filled 0 fields
+error                     | AI Trendz                 | Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigatin
+form_filled               | AI Valley                 | Filled 4 fields
+no_form_detected          | AI Wizard                 | No visible form fields
+form_found_but_empty      | AIX Collection            | Filled 0 fields
+error                     | AllThingsAI               | Page.goto: net::ERR_NAME_NOT_RESOLVED at https://allthingsai
+form_filled               | Best AI To                | Filled 1 fields
+no_form_detected          | Faind AI                  | No visible form fields
+no_form_detected          | Fazier                    | No visible form fields
+form_filled               | FindMyAITool              | Filled 1 fields
+no_form_detected          | Free AI Apps              | No visible form fields
+form_found_but_empty      | Free AI Tools Dir         | Filled 0 fields
+no_form_detected          | Future AGI Tools          | No visible form fields
+form_found_but_empty      | GoodAI Tools              | Filled 0 fields
+form_found_but_empty      | GPTE                      | Filled 0 fields
+form_filled               | Insidr AI                 | Filled 3 fields
+error                     | Instant AI                | Page.goto: net::ERR_NAME_NOT_RESOLVED at https://instantai.i
+no_form_detected          | Launched Site             | No visible form fields
+no_form_detected          | MadGenius                 | No visible form fields
+error                     | OneHub AI                 | Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.onehub
+login_required            | OpenFuture AI             | Login/register form detected
+error                     | Orbic AI                  | Page.goto: net::ERR_NAME_NOT_RESOLVED at https://orbic.ai/su
+form_filled               | SAAS AI Tools             | Filled 2 fields
+form_found_but_empty      | Smart Tools AI            | Filled 0 fields
+no_form_detected          | Synoptica                 | No visible form fields
+form_filled               | TheAIGeneration           | Filled 1 fields
+no_form_detected          | TipSeason                 | No visible form fields
+login_required            | ToolAI                    | Login/register form detected
+no_form_detected          | ToolScout                 | No visible form fields
+no_form_detected          | TopApps                   | No visible form fields
+no_form_detected          | WhatTheAI                 | No visible form fields
+form_found_but_empty      | Woy AI                    | Filled 0 fields
+no_form_detected          | EasySave AI               | No visible form fields
+no_form_detected          | NextGen Tools             | No visible form fields
+error                     | NextGen Tool              | Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nextgentool
+form_filled               | Toolio                    | Filled 4 fields
+form_filled               | Tools AI Online           | Filled 3 fields
+no_form_detected          | Tools Nocode              | No visible form fields
+error                     | Toolspedia                | Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigatin
+no_form_detected          | Victrays                  | No visible form fields
+error                     | ToolsAI.net               | Page.goto: net::ERR_CERT_DATE_INVALID at https://toolsai.net
+no_form_detected          | SAASBaba                  | No visible form fields
+no_form_detected          | GPT Academy               | No visible form fields
+form_found_but_empty      | Look AI Tools             | Filled 0 fields
+form_filled               | NextPedia                 | Filled 2 fields
+form_filled               | Tool Directory AI         | Filled 1 fields
+no_form_detected          | Ismail Blogger            | No visible form fields
+form_filled               | Educator Tools GF         | Filled 1 fields
+no_form_detected          | Tally 31kxN1              | No visible form fields
+form_filled               | Tally w4Jb4b              | Filled 2 fields
+login_required            | Tally mYaR6N              | Login/register form detected
+form_filled               | Tally wvY09d              | Filled 1 fields
+form_filled               | Tally 3lOGLk              | Filled 1 fields
+form_filled               | Tally wMzP8X              | Filled 1 fields
+form_filled               | Tally 3qVzOG              | Filled 2 fields
+form_found_but_empty      | IgniterAI                 | Filled 0 fields
+
+Batch Summary: 18 form_filled out of 59
