@@ -1,478 +1,525 @@
 ﻿<!DOCTYPE html>
+
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI Writing & Content - 25 AI Tools - CreatorAI Tools</title>
-<meta name="description" content="AI-powered writing tools for content creation, copywriting, translation, and summarization. Browse and compare 25 AI tools for ai writing & content.">
-<link rel="canonical" href="https://creatordir-tools.vercel.app/tools/writing-tools.html">
-<meta name="robots" content="index, follow">
-<link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="css/style.css">
-<meta property="og:title" content="AI Writing & Content - 25 AI Tools - CreatorAI Tools">
-<meta property="og:description" content="AI-powered writing tools for content creation, copywriting, translation, and summarization. Browse and compare 25 AI tools for ai writing & content.">
-<meta property="og:url" content="https://creatordir-tools.vercel.app/tools/writing-tools.html">
-<meta name="twitter:card" content="summary_large_image">
-
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>AI Writing &amp; Content - 25 AI Tools - CreatorAI Tools</title>
+<meta content="AI-powered writing tools for content creation, copywriting, translation, and summarization. Browse and compare 25 AI tools for ai writing &amp; content." name="description"/>
+<link href="https://creatordir-tools.vercel.app/tools/writing-tools.html" rel="canonical"/>
+<meta content="index, follow" name="robots"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="css/style.css" rel="stylesheet"/>
+<meta content="AI Writing &amp; Content - 25 AI Tools - CreatorAI Tools" property="og:title"/>
+<meta content="AI-powered writing tools for content creation, copywriting, translation, and summarization. Browse and compare 25 AI tools for ai writing &amp; content." property="og:description"/>
+<meta content="https://creatordir-tools.vercel.app/tools/writing-tools.html" property="og:url"/>
+<meta content="summary_large_image" name="twitter:card"/>
 <!-- Vercel Web Analytics -->
 <script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>
-<script defer src="/_vercel/insights/script.js"></script>
+<script defer="" src="/_vercel/insights/script.js"></script>
 </head>
 <body>
 <header class="site-header">
-  <div class="container">
-    <a href="" class="logo">⚡ CreatorAI</a>
-    <button class="hamburger" onclick="this.classList.toggle('active');document.querySelector('.nav-links').classList.toggle('open')"><span></span><span></span><span></span></button>
-    <nav>
-      <ul class="nav-links">
-        <li><a href="">Home</a></li>
-        <li><a href="tools/" class="active">Tools</a></li>
-        <li><a href="articles/">Guides</a></li>
-        <li><a href="resources/">Resources</a></li>
-        <li><a href="compare/">Compare</a></li>
-        <li><a href="../extensions.html">Extensions</a></li>
-        <li><a href="../trending.html">Trending</a></li>
-        <li><a href="../free-ai-tools.html">💰 Free</a></li>
-        <li><a href="../news.html">News</a></li>
-        <li><a href="about.html">About</a></li>
-      </ul>
-    </nav>
-  </div>
+<div class="container">
+<a class="logo" href="">⚡ CreatorAI</a>
+<button class="hamburger" onclick="this.classList.toggle('active');document.querySelector('.nav-links').classList.toggle('open')"><span></span><span></span><span></span></button>
+<nav>
+<ul class="nav-links">
+<li><a href="">Home</a></li>
+<li><a class="active" href="tools/">Tools</a></li>
+<li><a href="articles/">Guides</a></li>
+<li><a href="resources/">Resources</a></li>
+<li><a href="compare/">Compare</a></li>
+<li><a href="../extensions.html">Extensions</a></li>
+<li><a href="../trending.html">Trending</a></li>
+<li><a href="../free-ai-tools.html">💰 Free</a></li>
+<li><a href="../news.html">News</a></li>
+<li><a href="about.html">About</a></li>
+</ul>
+</nav>
+</div>
 </header>
 <main>
-  <div class="container">
-    <nav class="breadcrumb"><a href="">Home</a> / <a href="tools/">Tools</a> / <span>Categories</span></nav>
-  </div>
-  <section class="section" style="padding-top:2rem">
-  <div class="container">
-    <div class="section-header">
-      <h1>📝 AI Writing & Content</h1>
-      <p>AI-powered writing tools for content creation, copywriting, translation, and summarization. <strong>25 tools</strong> curated from GitHub, ranked by stars.</p>
-    </div>
-    
-    <!-- Filters -->
-    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:1.5rem;padding:12px;background:#1e293b;border-radius:12px;border:1px solid #334155;">
-      <span style="color:#94a3b8;font-size:13px;padding:6px 0;">🔍 Filter:</span>
-      <button class="tool-feature" onclick="sortTools('stars')" style="cursor:pointer;">⭐ Stars</button>
-      <button class="tool-feature" onclick="sortTools('name')" style="cursor:pointer;">A-Z</button>
-      <button class="tool-feature" onclick="sortTools('updated')" style="cursor:pointer;">🔄 Recent</button>
-      <span style="color:#94a3b8;font-size:13px;padding:6px 0;margin-left:auto;">Sorted by stars</span>
-    </div>
-    
-    <div id="tool-list" class="card-grid" style="grid-template-columns:1fr;">
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank" rel="noopener">asgeirtj/system_prompts_leaks</a></h3>
-            <a href="https://asgeirtj.github.io/system_prompts_leaks/" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ...</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 41,610</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
-            <span class="tool-feature">6886 forks</span>
-            <span class="tool-feature">ai</span> <span class="tool-feature">anthropic</span> <span class="tool-feature">awesome</span> <span class="tool-feature">chatbot</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noopener">pbakaus/impeccable</a></h3>
-            <a href="https://impeccable.style" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>The design language that makes your AI harness better at design.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 37,356</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
-            <span class="tool-feature">2041 forks</span>
-            
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/PDFMathTranslate/PDFMathTranslate" target="_blank" rel="noopener">PDFMathTranslate/PDFMathTranslate</a></h3>
-            <a href="https://pdf2zh.com" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 34,745</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
-            <span class="tool-feature">3102 forks</span>
-            <span class="tool-feature">chinese</span> <span class="tool-feature">document</span> <span class="tool-feature">edit</span> <span class="tool-feature">english</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/coreyhaines31/marketingskills" target="_blank" rel="noopener">coreyhaines31/marketingskills</a></h3>
-            <a href="https://marketing-skills.com" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 32,847</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
-            <span class="tool-feature">5395 forks</span>
-            <span class="tool-feature">claude</span> <span class="tool-feature">codex</span> <span class="tool-feature">marketing</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank" rel="noopener">linshenkx/prompt-optimizer</a></h3>
-            <a href="https://prompt.always200.com" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>An AI prompt optimizer for writing better prompts and getting better AI results.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 30,717</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
-            <span class="tool-feature">3584 forks</span>
-            <span class="tool-feature">ai-prompts</span> <span class="tool-feature">ai-tools</span> <span class="tool-feature">llm</span> <span class="tool-feature">prompt</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/Leey21/awesome-ai-research-writing" target="_blank" rel="noopener">Leey21/awesome-ai-research-writing</a></h3>
-            
-          </div>
-          <p>Elevate your AI research writing, no more tedious polishing ✨ </p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 28,101</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">N/A</span>
-            <span class="tool-feature">2188 forks</span>
-            
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/deepset-ai/haystack" target="_blank" rel="noopener">deepset-ai/haystack</a></h3>
-            <a href="https://haystack.deepset.ai" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m...</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 25,532</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">MDX</span>
-            <span class="tool-feature">2840 forks</span>
-            <span class="tool-feature">agent</span> <span class="tool-feature">agents</span> <span class="tool-feature">ai</span> <span class="tool-feature">gemini</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/blader/humanizer" target="_blank" rel="noopener">blader/humanizer</a></h3>
-            
-          </div>
-          <p>Claude Code skill that removes signs of AI-generated writing from text</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 23,655</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">N/A</span>
-            <span class="tool-feature">2248 forks</span>
-            
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts" target="_blank" rel="noopener">YouMind-OpenLab/awesome-nano-banana-pro-prompts</a></h3>
-            <a href="https://youmind.com/nano-banana-pro-prompts" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 12,466</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
-            <span class="tool-feature">1354 forks</span>
-            <span class="tool-feature">ai-image-genera</span> <span class="tool-feature">ai-prompts</span> <span class="tool-feature">awesome</span> <span class="tool-feature">awesome-list</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/zyddnys/manga-image-translator" target="_blank" rel="noopener">zyddnys/manga-image-translator</a></h3>
-            <a href="https://cotrans.touhou.ai/" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 10,021</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
-            <span class="tool-feature">1005 forks</span>
-            <span class="tool-feature">anime</span> <span class="tool-feature">auto-translatio</span> <span class="tool-feature">chinese-transla</span> <span class="tool-feature">deep-learning</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/MervinPraison/PraisonAI" target="_blank" rel="noopener">MervinPraison/PraisonAI</a></h3>
-            <a href="https://docs.praison.ai" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil...</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 8,115</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
-            <span class="tool-feature">1241 forks</span>
-            <span class="tool-feature">agents</span> <span class="tool-feature">ai</span> <span class="tool-feature">ai-agent-framew</span> <span class="tool-feature">ai-agent-sdk</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/swyxio/ai-notes" target="_blank" rel="noopener">swyxio/ai-notes</a></h3>
-            <a href="https://latent.space/" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under ...</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 6,225</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">HTML</span>
-            <span class="tool-feature">557 forks</span>
-            <span class="tool-feature">ai</span> <span class="tool-feature">gpt</span> <span class="tool-feature">gpt-3</span> <span class="tool-feature">multimodal</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/steipete/summarize" target="_blank" rel="noopener">steipete/summarize</a></h3>
-            <a href="https://summarize.sh" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 6,146</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
-            <span class="tool-feature">402 forks</span>
-            <span class="tool-feature">ai</span> <span class="tool-feature">cli</span> <span class="tool-feature">summarize</span> <span class="tool-feature">typescript</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/mckaywrigley/ai-code-translator" target="_blank" rel="noopener">mckaywrigley/ai-code-translator</a></h3>
-            <a href="https://JoinTakeoff.com" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>Use AI to translate code from one language to another.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 4,166</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
-            <span class="tool-feature">624 forks</span>
-            
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/eseckel/ai-for-grant-writing" target="_blank" rel="noopener">eseckel/ai-for-grant-writing</a></h3>
-            <a href="https://eseckel.github.io/ai-for-grant-writing/" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>A curated list of resources for using LLMs to develop more competitive grant applications.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 4,137</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
-            <span class="tool-feature">514 forks</span>
-            <span class="tool-feature">generative-ai</span> <span class="tool-feature">grant-proposals</span> <span class="tool-feature">grants</span> <span class="tool-feature">llms</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/hcfyapp/crx-selection-translate" target="_blank" rel="noopener">hcfyapp/crx-selection-translate</a></h3>
-            <a href="https://hcfy.ai" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 4,135</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">N/A</span>
-            <span class="tool-feature">527 forks</span>
-            <span class="tool-feature">chrome</span> <span class="tool-feature">chrome-extensio</span> <span class="tool-feature">crx</span> <span class="tool-feature">firefox</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/hzwer/WritingAIPaper" target="_blank" rel="noopener">hzwer/WritingAIPaper</a></h3>
-            
-          </div>
-          <p>Writing AI Conference Papers: A Handbook for Beginners</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 3,820</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">N/A</span>
-            <span class="tool-feature">134 forks</span>
-            <span class="tool-feature">ai</span> <span class="tool-feature">paper</span> <span class="tool-feature">writing</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/MashiroSaber03/Saber-Translator" target="_blank" rel="noopener">MashiroSaber03/Saber-Translator</a></h3>
-            
-          </div>
-          <p>✨ 一款小白也能轻松使用的漫画翻译工具，旨在帮助漫画爱好者轻松跨越语言障碍，畅享原汁原味的日文漫画。  利用先进的 AI 技术，智能检测漫画中的对话气泡，精准识别日文文本，并快速翻译成流畅自然的中文。  ✨ 无论是图片还是 PDF 格式的漫画，Saber-Translator 都能轻松应对，让你无压力阅读心爱的漫画作品。</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 3,275</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
-            <span class="tool-feature">113 forks</span>
-            
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/xnx3/translate" target="_blank" rel="noopener">xnx3/translate</a></h3>
-            
-          </div>
-          <p>AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 3,004</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
-            <span class="tool-feature">472 forks</span>
-            
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/ogkalu2/comic-translate" target="_blank" rel="noopener">ogkalu2/comic-translate</a></h3>
-            <a href="https://comic-translate.com" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc).</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 2,777</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
-            <span class="tool-feature">305 forks</span>
-            <span class="tool-feature">anime</span> <span class="tool-feature">comics</span> <span class="tool-feature">computer-vision</span> <span class="tool-feature">deep-learning</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation" target="_blank" rel="noopener">AIGODLIKE/AIGODLIKE-ComfyUI-Translation</a></h3>
-            <a href="https://www.aigodlike.com/" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 2,446</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
-            <span class="tool-feature">166 forks</span>
-            <span class="tool-feature">comfyui</span> <span class="tool-feature">translation</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/theJayTea/WritingTools" target="_blank" rel="noopener">theJayTea/WritingTools</a></h3>
-            
-          </div>
-          <p>The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 2,297</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Swift</span>
-            <span class="tool-feature">142 forks</span>
-            <span class="tool-feature">ai</span> <span class="tool-feature">artificial-inte</span> <span class="tool-feature">gemini</span> <span class="tool-feature">grammar-checker</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/zubair-trabzada/ai-marketing-claude" target="_blank" rel="noopener">zubair-trabzada/ai-marketing-claude</a></h3>
-            <a href="https://www.skool.com/aiworkshop" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and clie...</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 1,863</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
-            <span class="tool-feature">590 forks</span>
-            <span class="tool-feature">ai-marketing</span> <span class="tool-feature">claude</span> <span class="tool-feature">claude-code</span> <span class="tool-feature">competitive-ana</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/ThioJoe/Auto-Synced-Translated-Dubs" target="_blank" rel="noopener">ThioJoe/Auto-Synced-Translated-Dubs</a></h3>
-            
-          </div>
-          <p>Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t...</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 1,729</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
-            <span class="tool-feature">163 forks</span>
-            <span class="tool-feature">ai</span> <span class="tool-feature">dubbing</span> <span class="tool-feature">subtitles</span> <span class="tool-feature">text-to-speech</span>
-          </div>
-        </div>
-      </div>
-      <div class="tool-item">
-        <div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
-        <div class="tool-body">
-          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-            <h3 style="margin:0;"><a href="https://github.com/delibae/claude-prism" target="_blank" rel="noopener">delibae/claude-prism</a></h3>
-            <a href="https://claudeprism.delibae.dev" target="_blank" rel="noopener" class="tool-feature" style="text-decoration:none;">🌐 Website</a>
-          </div>
-          <p>An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally.</p>
-          <div class="tool-features">
-            <span class="tool-feature">⭐ 1,568</span>
-            <span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
-            <span class="tool-feature">141 forks</span>
-            <span class="tool-feature">academic</span> <span class="tool-feature">ai</span> <span class="tool-feature">claude</span> <span class="tool-feature">claude-code</span>
-          </div>
-        </div>
-      </div></div>
-  </div>
+<div class="container">
+<nav class="breadcrumb"><a href="">Home</a> / <a href="tools/">Tools</a> / <span>Categories</span></nav>
+</div>
+<section class="section" style="padding-top:2rem">
+<div class="container">
+<div class="section-header">
+<h1>📝 AI Writing &amp; Content</h1>
+<p>AI-powered writing tools for content creation, copywriting, translation, and summarization. <strong>25 tools</strong> curated from GitHub, ranked by stars.</p>
+</div>
+<!-- Filters -->
+<div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:1.5rem;padding:12px;background:#1e293b;border-radius:12px;border:1px solid #334155;">
+<span style="color:#94a3b8;font-size:13px;padding:6px 0;">🔍 Filter:</span>
+<button class="tool-feature" onclick="sortTools('stars')" style="cursor:pointer;">⭐ Stars</button>
+<button class="tool-feature" onclick="sortTools('name')" style="cursor:pointer;">A-Z</button>
+<button class="tool-feature" onclick="sortTools('updated')" style="cursor:pointer;">🔄 Recent</button>
+<span style="color:#94a3b8;font-size:13px;padding:6px 0;margin-left:auto;">Sorted by stars</span>
+</div>
+<div class="card-grid" id="tool-list" style="grid-template-columns:1fr;">
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/asgeirtj/system_prompts_leaks" rel="noopener" target="_blank">asgeirtj/system_prompts_leaks</a></h3>
+<a class="tool-feature" href="https://asgeirtj.github.io/system_prompts_leaks/" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ...</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 41,610</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
+<span class="tool-feature">6886 forks</span>
+<span class="tool-feature">ai</span> <span class="tool-feature">anthropic</span> <span class="tool-feature">awesome</span> <span class="tool-feature">chatbot</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/pbakaus/impeccable" rel="noopener" target="_blank">pbakaus/impeccable</a></h3>
+<a class="tool-feature" href="https://impeccable.style" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>The design language that makes your AI harness better at design.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 37,356</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
+<span class="tool-feature">2041 forks</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/PDFMathTranslate/PDFMathTranslate" rel="noopener" target="_blank">PDFMathTranslate/PDFMathTranslate</a></h3>
+<a class="tool-feature" href="https://pdf2zh.com" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 34,745</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
+<span class="tool-feature">3102 forks</span>
+<span class="tool-feature">chinese</span> <span class="tool-feature">document</span> <span class="tool-feature">edit</span> <span class="tool-feature">english</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/coreyhaines31/marketingskills" rel="noopener" target="_blank">coreyhaines31/marketingskills</a></h3>
+<a class="tool-feature" href="https://marketing-skills.com" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 32,847</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
+<span class="tool-feature">5395 forks</span>
+<span class="tool-feature">claude</span> <span class="tool-feature">codex</span> <span class="tool-feature">marketing</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/linshenkx/prompt-optimizer" rel="noopener" target="_blank">linshenkx/prompt-optimizer</a></h3>
+<a class="tool-feature" href="https://prompt.always200.com" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>An AI prompt optimizer for writing better prompts and getting better AI results.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 30,717</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
+<span class="tool-feature">3584 forks</span>
+<span class="tool-feature">ai-prompts</span> <span class="tool-feature">ai-tools</span> <span class="tool-feature">llm</span> <span class="tool-feature">prompt</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/Leey21/awesome-ai-research-writing" rel="noopener" target="_blank">Leey21/awesome-ai-research-writing</a></h3>
+</div>
+<p>Elevate your AI research writing, no more tedious polishing ✨ </p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 28,101</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">N/A</span>
+<span class="tool-feature">2188 forks</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/deepset-ai/haystack" rel="noopener" target="_blank">deepset-ai/haystack</a></h3>
+<a class="tool-feature" href="https://haystack.deepset.ai" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m...</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 25,532</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">MDX</span>
+<span class="tool-feature">2840 forks</span>
+<span class="tool-feature">agent</span> <span class="tool-feature">agents</span> <span class="tool-feature">ai</span> <span class="tool-feature">gemini</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/blader/humanizer" rel="noopener" target="_blank">blader/humanizer</a></h3>
+</div>
+<p>Claude Code skill that removes signs of AI-generated writing from text</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 23,655</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">N/A</span>
+<span class="tool-feature">2248 forks</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts" rel="noopener" target="_blank">YouMind-OpenLab/awesome-nano-banana-pro-prompts</a></h3>
+<a class="tool-feature" href="https://youmind.com/nano-banana-pro-prompts" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free &amp; open source.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 12,466</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
+<span class="tool-feature">1354 forks</span>
+<span class="tool-feature">ai-image-genera</span> <span class="tool-feature">ai-prompts</span> <span class="tool-feature">awesome</span> <span class="tool-feature">awesome-list</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/zyddnys/manga-image-translator" rel="noopener" target="_blank">zyddnys/manga-image-translator</a></h3>
+<a class="tool-feature" href="https://cotrans.touhou.ai/" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 10,021</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
+<span class="tool-feature">1005 forks</span>
+<span class="tool-feature">anime</span> <span class="tool-feature">auto-translatio</span> <span class="tool-feature">chinese-transla</span> <span class="tool-feature">deep-learning</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/MervinPraison/PraisonAI" rel="noopener" target="_blank">MervinPraison/PraisonAI</a></h3>
+<a class="tool-feature" href="https://docs.praison.ai" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil...</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 8,115</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
+<span class="tool-feature">1241 forks</span>
+<span class="tool-feature">agents</span> <span class="tool-feature">ai</span> <span class="tool-feature">ai-agent-framew</span> <span class="tool-feature">ai-agent-sdk</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/swyxio/ai-notes" rel="noopener" target="_blank">swyxio/ai-notes</a></h3>
+<a class="tool-feature" href="https://latent.space/" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under ...</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 6,225</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">HTML</span>
+<span class="tool-feature">557 forks</span>
+<span class="tool-feature">ai</span> <span class="tool-feature">gpt</span> <span class="tool-feature">gpt-3</span> <span class="tool-feature">multimodal</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/steipete/summarize" rel="noopener" target="_blank">steipete/summarize</a></h3>
+<a class="tool-feature" href="https://summarize.sh" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 6,146</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
+<span class="tool-feature">402 forks</span>
+<span class="tool-feature">ai</span> <span class="tool-feature">cli</span> <span class="tool-feature">summarize</span> <span class="tool-feature">typescript</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/mckaywrigley/ai-code-translator" rel="noopener" target="_blank">mckaywrigley/ai-code-translator</a></h3>
+<a class="tool-feature" href="https://JoinTakeoff.com" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>Use AI to translate code from one language to another.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 4,166</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
+<span class="tool-feature">624 forks</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/eseckel/ai-for-grant-writing" rel="noopener" target="_blank">eseckel/ai-for-grant-writing</a></h3>
+<a class="tool-feature" href="https://eseckel.github.io/ai-for-grant-writing/" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>A curated list of resources for using LLMs to develop more competitive grant applications.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 4,137</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
+<span class="tool-feature">514 forks</span>
+<span class="tool-feature">generative-ai</span> <span class="tool-feature">grant-proposals</span> <span class="tool-feature">grants</span> <span class="tool-feature">llms</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/hcfyapp/crx-selection-translate" rel="noopener" target="_blank">hcfyapp/crx-selection-translate</a></h3>
+<a class="tool-feature" href="https://hcfy.ai" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 4,135</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">N/A</span>
+<span class="tool-feature">527 forks</span>
+<span class="tool-feature">chrome</span> <span class="tool-feature">chrome-extensio</span> <span class="tool-feature">crx</span> <span class="tool-feature">firefox</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/hzwer/WritingAIPaper" rel="noopener" target="_blank">hzwer/WritingAIPaper</a></h3>
+</div>
+<p>Writing AI Conference Papers: A Handbook for Beginners</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 3,820</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">N/A</span>
+<span class="tool-feature">134 forks</span>
+<span class="tool-feature">ai</span> <span class="tool-feature">paper</span> <span class="tool-feature">writing</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/MashiroSaber03/Saber-Translator" rel="noopener" target="_blank">MashiroSaber03/Saber-Translator</a></h3>
+</div>
+<p>✨ 一款小白也能轻松使用的漫画翻译工具，旨在帮助漫画爱好者轻松跨越语言障碍，畅享原汁原味的日文漫画。  利用先进的 AI 技术，智能检测漫画中的对话气泡，精准识别日文文本，并快速翻译成流畅自然的中文。  ✨ 无论是图片还是 PDF 格式的漫画，Saber-Translator 都能轻松应对，让你无压力阅读心爱的漫画作品。</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 3,275</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
+<span class="tool-feature">113 forks</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/xnx3/translate" rel="noopener" target="_blank">xnx3/translate</a></h3>
+</div>
+<p>AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 3,004</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
+<span class="tool-feature">472 forks</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/ogkalu2/comic-translate" rel="noopener" target="_blank">ogkalu2/comic-translate</a></h3>
+<a class="tool-feature" href="https://comic-translate.com" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc).</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 2,777</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
+<span class="tool-feature">305 forks</span>
+<span class="tool-feature">anime</span> <span class="tool-feature">comics</span> <span class="tool-feature">computer-vision</span> <span class="tool-feature">deep-learning</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation" rel="noopener" target="_blank">AIGODLIKE/AIGODLIKE-ComfyUI-Translation</a></h3>
+<a class="tool-feature" href="https://www.aigodlike.com/" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 2,446</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">JavaScript</span>
+<span class="tool-feature">166 forks</span>
+<span class="tool-feature">comfyui</span> <span class="tool-feature">translation</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/theJayTea/WritingTools" rel="noopener" target="_blank">theJayTea/WritingTools</a></h3>
+</div>
+<p>The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, &amp; macOS, with the free Gemini API, local LLMs, &amp; more.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 2,297</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Swift</span>
+<span class="tool-feature">142 forks</span>
+<span class="tool-feature">ai</span> <span class="tool-feature">artificial-inte</span> <span class="tool-feature">gemini</span> <span class="tool-feature">grammar-checker</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/zubair-trabzada/ai-marketing-claude" rel="noopener" target="_blank">zubair-trabzada/ai-marketing-claude</a></h3>
+<a class="tool-feature" href="https://www.skool.com/aiworkshop" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and clie...</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 1,863</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
+<span class="tool-feature">590 forks</span>
+<span class="tool-feature">ai-marketing</span> <span class="tool-feature">claude</span> <span class="tool-feature">claude-code</span> <span class="tool-feature">competitive-ana</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/ThioJoe/Auto-Synced-Translated-Dubs" rel="noopener" target="_blank">ThioJoe/Auto-Synced-Translated-Dubs</a></h3>
+</div>
+<p>Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed &amp; translated audio track where the speech is synced using the subtitle's t...</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 1,729</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">Python</span>
+<span class="tool-feature">163 forks</span>
+<span class="tool-feature">ai</span> <span class="tool-feature">dubbing</span> <span class="tool-feature">subtitles</span> <span class="tool-feature">text-to-speech</span>
+</div>
+</div>
+</div>
+<div class="tool-item">
+<div class="tool-icon" style="background:#6366f115;color:#6366f1;font-size:1rem;">GH</div>
+<div class="tool-body">
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+<h3 style="margin:0;"><a href="https://github.com/delibae/claude-prism" rel="noopener" target="_blank">delibae/claude-prism</a></h3>
+<a class="tool-feature" href="https://claudeprism.delibae.dev" rel="noopener" style="text-decoration:none;" target="_blank">🌐 Website</a>
+</div>
+<p>An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally.</p>
+<div class="tool-features">
+<span class="tool-feature">⭐ 1,568</span>
+<span class="tool-feature" style="background:#6366f115;color:#6366f1">TypeScript</span>
+<span class="tool-feature">141 forks</span>
+<span class="tool-feature">academic</span> <span class="tool-feature">ai</span> <span class="tool-feature">claude</span> <span class="tool-feature">claude-code</span>
+</div>
+</div>
+</div></div>
+</div>
 </section>
 </main>
+
+<h2 class="compare-top-ai-tools" style="margin-top:40px">Compare Top AI Tools</h2>
+<div style="overflow-x:auto">
+<table style="width:100%;border-collapse:collapse;margin:16px 0;font-size:0.9em">
+<thead>
+<tr style="background:#1e293b;color:#fff">
+<th style="padding:12px;text-align:left;border:1px solid #333">Tool</th>
+<th style="padding:12px;text-align:center;border:1px solid #333">Best For</th>
+<th style="padding:12px;text-align:center;border:1px solid #333">Free Tier</th>
+<th style="padding:12px;text-align:center;border:1px solid #333">Starting Price</th>
+<th style="padding:12px;text-align:center;border:1px solid #333">Rating</th>
+<th style="padding:12px;text-align:center;border:1px solid #333">Deal</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background:#0f172a">
+<td style="padding:10px;border:1px solid #333"><a href="https://chat.openai.com" rel="nofollow" target="_blank">ChatGPT</a></td>
+<td style="padding:10px;text-align:center;border:1px solid #333">Writing &amp; Code</td>
+<td style="padding:10px;text-align:center;border:1px solid #333;color:#22c55e">Yes</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">$20/month</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">⭐⭐⭐⭐⭐</td>
+<td style="padding:10px;text-align:center;border:1px solid #333"><a href="https://chat.openai.com" rel="nofollow" style="color:#f59e0b" target="_blank">Try Free</a></td>
+</tr>
+<tr style="background:#1e293a">
+<td style="padding:10px;border:1px solid #333"><a href="https://claude.ai" rel="nofollow" target="_blank">Claude</a></td>
+<td style="padding:10px;text-align:center;border:1px solid #333">Analysis &amp; Long-form</td>
+<td style="padding:10px;text-align:center;border:1px solid #333;color:#22c55e">Yes</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">$20/month</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">⭐⭐⭐⭐⭐</td>
+<td style="padding:10px;text-align:center;border:1px solid #333"><a href="https://claude.ai" rel="nofollow" style="color:#f59e0b" target="_blank">Try Free</a></td>
+</tr>
+<tr style="background:#0f172a">
+<td style="padding:10px;border:1px solid #333"><a href="https://www.canva.com" rel="nofollow" target="_blank">Canva AI</a></td>
+<td style="padding:10px;text-align:center;border:1px solid #333">Design &amp; Visual</td>
+<td style="padding:10px;text-align:center;border:1px solid #333;color:#22c55e">Yes</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">Free / $13/month</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">⭐⭐⭐⭐⭐</td>
+<td style="padding:10px;text-align:center;border:1px solid #333"><a href="https://www.canva.com" rel="nofollow" style="color:#f59e0b" target="_blank">Try Free</a></td>
+</tr>
+<tr style="background:#1e293a">
+<td style="padding:10px;border:1px solid #333"><a href="https://www.hostinger.com?REFERRALCODE=ECA346010F8J" rel="nofollow" target="_blank">Hostinger</a></td>
+<td style="padding:10px;text-align:center;border:1px solid #333">Web Hosting</td>
+<td style="padding:10px;text-align:center;border:1px solid #333;color:#ef4444">No</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">$2.99/month</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">⭐⭐⭐⭐</td>
+<td style="padding:10px;text-align:center;border:1px solid #333"><a href="https://www.hostinger.com?REFERRALCODE=ECA346010F8J" rel="nofollow" style="color:#22c55e;font-weight:700" target="_blank">60% OFF</a></td>
+</tr>
+<tr style="background:#0f172a">
+<td style="padding:10px;border:1px solid #333"><a href="https://try.elevenlabs.io/ebksqtv6a5m6" rel="nofollow" target="_blank">ElevenLabs</a></td>
+<td style="padding:10px;text-align:center;border:1px solid #333">Text-to-Speech</td>
+<td style="padding:10px;text-align:center;border:1px solid #333;color:#22c55e">Yes</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">Free / $5/month</td>
+<td style="padding:10px;text-align:center;border:1px solid #333">⭐⭐⭐⭐⭐</td>
+<td style="padding:10px;text-align:center;border:1px solid #333"><a href="https://try.elevenlabs.io/ebksqtv6a5m6" rel="nofollow" style="color:#f59e0b" target="_blank">Free Trial</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="font-size:0.8em;color:#888">Prices may change. Check each tool website for current pricing.</p>
 <footer class="site-footer">
-  <div class="container">
-    <p><strong>CreatorAI Tools</strong> — AI tools for content creators worldwide</p>
-    <p style="font-size:0.8rem;color:#64748b;margin-top:0.5rem">Disclosure: Some links on this site are affiliate links. We may earn a commission at no extra cost to you.</p>
-    <p>&copy; 2026 CreatorAI &middot; <a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="sitemap.xml">Sitemap</a></p>
-  </div>
+<div class="container">
+<p><strong>CreatorAI Tools</strong> — AI tools for content creators worldwide</p>
+<p style="font-size:0.8rem;color:#64748b;margin-top:0.5rem">Disclosure: Some links on this site are affiliate links. We may earn a commission at no extra cost to you.</p>
+<p>© 2026 CreatorAI · <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a> · <a href="sitemap.xml">Sitemap</a></p>
+</div>
 </footer>
 <script src="js/main.js"></script>
 <script src="js/smart-bar.js"></script>
-  <script src="../js/affiliate-widget.js"></script>
+<script src="../js/affiliate-widget.js"></script>
 <script src="../js/search.js"></script>
-</body>
+
+<p class="affiliate-disclosure" style="font-size:0.8em;color:#888;margin-top:20px;border-top:1px solid #333;padding-top:10px">
+<em>Disclosure: Some links on this page are affiliate links. We may earn a commission at no extra cost to you.</em>
+</p></body>
 </html>
