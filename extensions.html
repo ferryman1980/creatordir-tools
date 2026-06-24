@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <!-- Google tag (gtag.js) - Google Analytics 4 -->
@@ -7,7 +7,7 @@
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
-gtag('config', 'G-XXXXXXXX');
+gtag('config', 'G-8K2M5N9P7Q');
 </script>
 <meta name="msvalidate.01" content="12DE03330024456C4B6D9FF9E4B9C31C" />
 
@@ -57,7 +57,7 @@ gtag('config', 'G-XXXXXXXX');
 
 <header class="site-header">
   <div class="container">
-    <a href="./" class="logo">⚡ CreatorAI</a>
+    <a href="./" class="logo">? CreatorAI</a>
     <button class="hamburger" onclick="this.classList.toggle('active');document.querySelector('.nav-links').classList.toggle('open')">
       <span></span><span></span><span></span>
     </button>
@@ -70,7 +70,7 @@ gtag('config', 'G-XXXXXXXX');
         <li><a href="compare/">Compare</a></li>
         <li><a href="extensions.html" class="active">Extensions</a></li>
         <li><a href="trending.html">Trending</a></li>
-        <li><a href="free-ai-tools.html">💰 Free</a></li>
+        <li><a href="free-ai-tools.html">?? Free</a></li>
         <li><a href="news.html">News</a></li>
         <li><a href="about.html">About</a></li>
       </ul>
@@ -97,16 +97,16 @@ gtag('config', 'G-XXXXXXXX');
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2>🔌 Browse by Category</h2>
+        <h2>?? Browse by Category</h2>
         <p>Find the perfect extension for your workflow</p>
       </div>
       <div class="filter-bar" id="filterBar">
         <button class="filter-btn active" data-cat="all">All</button>
-        <button class="filter-btn" data-cat="Writing">✍️ Writing</button>
-        <button class="filter-btn" data-cat="Image">🎨 Image</button>
-        <button class="filter-btn" data-cat="Productivity">⚡ Productivity</button>
-        <button class="filter-btn" data-cat="Development">💻 Development</button>
-        <button class="filter-btn" data-cat="Research">🔍 Research</button>
+        <button class="filter-btn" data-cat="Writing">?? Writing</button>
+        <button class="filter-btn" data-cat="Image">?? Image</button>
+        <button class="filter-btn" data-cat="Productivity">? Productivity</button>
+        <button class="filter-btn" data-cat="Development">?? Development</button>
+        <button class="filter-btn" data-cat="Research">?? Research</button>
       </div>
       <p class="ext-count" id="extCount">Showing 20 extensions</p>
       <div class="extension-grid" id="extGrid"></div>
@@ -119,7 +119,7 @@ gtag('config', 'G-XXXXXXXX');
   <section class="section" style="background:var(--bg-alt)">
     <div class="container">
       <div class="section-header">
-        <h2>❓ Frequently Asked Questions</h2>
+        <h2>? Frequently Asked Questions</h2>
         <p>Everything you need to know about AI browser extensions</p>
       </div>
       <div style="max-width:720px;margin:0 auto">
@@ -146,7 +146,7 @@ gtag('config', 'G-XXXXXXXX');
 
 <footer class="site-footer">
   <div class="container">
-    <p><strong>CreatorAI Tools</strong> — AI tools for content creators worldwide</p>
+    <p><strong>CreatorAI Tools</strong> �� AI tools for content creators worldwide</p>
     <p>&copy; 2026 CreatorAI &middot; <a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="sitemap.xml">Sitemap</a></p>
   </div>
 </footer>
@@ -185,17 +185,17 @@ function renderExtensions(category) {
   const filtered = category === "all" ? extensions : extensions.filter(e => e.cat === category);
   document.getElementById("extCount").textContent = "Showing " + filtered.length + " extension" + (filtered.length !== 1 ? "s" : "");
   grid.innerHTML = filtered.map(e => {
-    const starFull = "★".repeat(Math.floor(e.stars));
-    const starHalf = e.stars % 1 >= 0.5 ? "½" : "";
-    const starEmpty = "☆".repeat(5 - Math.ceil(e.stars));
-    const browsersHtml = e.browsers.map(b => `<span class="browser-badge">${b === "Chrome" ? "🌐" : b === "Firefox" ? "🦊" : "🔷"} ${b}</span>`).join("");
+    const starFull = "��".repeat(Math.floor(e.stars));
+    const starHalf = e.stars % 1 >= 0.5 ? "?" : "";
+    const starEmpty = "��".repeat(5 - Math.ceil(e.stars));
+    const browsersHtml = e.browsers.map(b => `<span class="browser-badge">${b === "Chrome" ? "??" : b === "Firefox" ? "??" : "??"} ${b}</span>`).join("");
     return '<div class="ext-card" data-cat="'+e.cat+'">'+
       '<h3>'+e.name+'</h3>'+
       '<div class="ext-meta"><span class="tag">'+e.cat+'</span>'+browsersHtml+'</div>'+
       '<p class="ext-desc">'+e.desc+'</p>'+
       '<div class="ext-footer">'+
         '<span class="stars">'+starFull+starHalf+starEmpty+' '+e.stars.toFixed(1)+'</span>'+
-        '<a class="ext-link" href="'+e.url+'" target="_blank" rel="noopener">Install →</a>'+
+        '<a class="ext-link" href="'+e.url+'" target="_blank" rel="noopener">Install ��</a>'+
       '</div>'+
     '</div>';
   }).join("");
