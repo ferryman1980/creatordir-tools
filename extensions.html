@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ï»¿<!DOCTYPE html>
 <html lang="en">
 <head>
 <!-- Google tag (gtag.js) - Google Analytics 4 -->
@@ -146,7 +146,7 @@ gtag('config', 'G-8K2M5N9P7Q');
 
 <footer class="site-footer">
   <div class="container">
-    <p><strong>CreatorAI Tools</strong> ¡ª AI tools for content creators worldwide</p>
+    <p><strong>CreatorAI Tools</strong> â€” AI tools for content creators worldwide</p>
     <p>&copy; 2026 CreatorAI &middot; <a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="sitemap.xml">Sitemap</a></p>
   </div>
 </footer>
@@ -185,9 +185,9 @@ function renderExtensions(category) {
   const filtered = category === "all" ? extensions : extensions.filter(e => e.cat === category);
   document.getElementById("extCount").textContent = "Showing " + filtered.length + " extension" + (filtered.length !== 1 ? "s" : "");
   grid.innerHTML = filtered.map(e => {
-    const starFull = "¡ï".repeat(Math.floor(e.stars));
+    const starFull = "â˜…".repeat(Math.floor(e.stars));
     const starHalf = e.stars % 1 >= 0.5 ? "?" : "";
-    const starEmpty = "¡î".repeat(5 - Math.ceil(e.stars));
+    const starEmpty = "â˜†".repeat(5 - Math.ceil(e.stars));
     const browsersHtml = e.browsers.map(b => `<span class="browser-badge">${b === "Chrome" ? "??" : b === "Firefox" ? "??" : "??"} ${b}</span>`).join("");
     return '<div class="ext-card" data-cat="'+e.cat+'">'+
       '<h3>'+e.name+'</h3>'+
@@ -195,7 +195,7 @@ function renderExtensions(category) {
       '<p class="ext-desc">'+e.desc+'</p>'+
       '<div class="ext-footer">'+
         '<span class="stars">'+starFull+starHalf+starEmpty+' '+e.stars.toFixed(1)+'</span>'+
-        '<a class="ext-link" href="'+e.url+'" target="_blank" rel="noopener">Install ¡ú</a>'+
+        '<a class="ext-link" href="'+e.url+'" target="_blank" rel="noopener">Install â†’</a>'+
       '</div>'+
     '</div>';
   }).join("");
@@ -211,6 +211,7 @@ document.getElementById("filterBar").addEventListener("click", function(e) {
 renderExtensions("all");
 </script>
   <script src="js/affiliate-widget.js"></script>
+<script src="js/search.js"></script>
 </body>
 </html>
 
