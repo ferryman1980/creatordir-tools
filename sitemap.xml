@@ -67,7 +67,25 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://creatordir-tools.vercel.app/robots.txt</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-3d-modeling-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-accounting-tools-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-architecture-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -92,6 +110,18 @@
   </url>
   <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-blog-writing-tools-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-brand-kit-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-budget-planner-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -139,6 +169,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-contract-review-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-cover-letter-generator-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -157,7 +193,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-crypto-tools-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-customer-support-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-cv-builder-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -188,6 +236,18 @@
   </url>
   <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-email-marketing-tools-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-expense-tracker-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-fashion-design-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -247,6 +307,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-game-dev-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-healthcare-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -277,7 +343,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-interior-design-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-interview-coach-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-investment-advisor-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-invoice-generator-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-job-search-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -295,7 +385,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-linkedin-optimizer-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-logo-generator-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-logo-maker-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -326,6 +428,12 @@
   </url>
   <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-music-production-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-nft-generator-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -421,6 +529,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-slogan-generator-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-social-media-management-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -439,7 +553,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-stock-analysis-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://creatordir-tools.vercel.app/articles/ai-storyboard-generator-2026.html</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://creatordir-tools.vercel.app/articles/ai-tattoo-generator-2026.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

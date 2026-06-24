@@ -1752,6 +1752,113 @@ gtag('config', 'G-XXXXXXXX');
   line-height: 1.5;
 }
 </style>
+<style>
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+  align-items: center;
+}
+.filter-bar .filter-label {
+  color: #94a3b8;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+.filter-tag {
+  padding: 0.35rem 0.9rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 1px solid #334155;
+  background: transparent;
+  color: #cbd5e1;
+  text-decoration: none;
+  display: inline-block;
+}
+.filter-tag:hover, .filter-tag.active {
+  border-color: #8b5cf6;
+  background: rgba(139,92,246,0.15);
+  color: #a78bfa;
+}
+.sort-bar {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.sort-btn {
+  padding: 0.35rem 0.9rem;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  border: 1px solid #334155;
+  background: transparent;
+  color: #94a3b8;
+  transition: all 0.2s;
+}
+.sort-btn:hover, .sort-btn.active {
+  border-color: #f59e0b;
+  color: #f59e0b;
+  background: rgba(245,158,11,0.1);
+}
+.view-details-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  color: #8b5cf6;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  margin-top: 0.5rem;
+  transition: all 0.2s;
+}
+.view-details-link:hover {
+  color: #a78bfa;
+  gap: 0.5rem;
+}
+.hot-tool-card {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 12px;
+  padding: 1.25rem;
+  transition: all 0.2s;
+}
+.hot-tool-card:hover {
+  border-color: #8b5cf6;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(139,92,246,0.15);
+}
+.hot-tool-card .hot-name {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #e2e8f0;
+  margin-bottom: 0.25rem;
+}
+.hot-tool-card .hot-name a {
+  color: #e2e8f0;
+  text-decoration: none;
+}
+.hot-tool-card .hot-name a:hover {
+  color: #8b5cf6;
+}
+.hot-tool-card .hot-meta {
+  display: flex;
+  gap: 1rem;
+  color: #94a3b8;
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+  align-items: center;
+}
+.hot-tool-card .hot-desc {
+  color: #64748b;
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+  line-height: 1.5;
+}
+</style>
 </head>
 <body>
 
@@ -2771,6 +2878,124 @@ gtag('config', 'G-XXXXXXXX');
       <p style="text-align:center;margin-top:1.5rem">
         <a href="details/index.html" style="color:#8b5cf6;font-weight:500;text-decoration:none;font-size:1rem">
           📋 Browse All 72 Tool Detail Pages →
+        </a>
+      </p>
+    </div>
+  </section>
+  <script>
+  function sortTools(by) {
+    const grid = document.getElementById('hot-tools-grid');
+    const items = Array.from(grid.children);
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+    event.target.classList.add('active');
+    items.sort((a, b) => {
+      if (by === 'stars') return parseInt(b.dataset.stars) - parseInt(a.dataset.stars);
+      return a.dataset.name.localeCompare(b.dataset.name);
+    });
+    items.forEach(item => grid.appendChild(item));
+  }
+  </script>
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h1>🔥 Hot AI Tools Right Now</h1>
+        <p>Top trending open-source AI tools by GitHub stars</p>
+      </div>
+      <div class="filter-bar">
+        <span class="filter-label">🏷️ Filter by category:</span>
+        <a href="categories.html" class="filter-tag active">All</a>
+        <a href="writing-tools.html" class="filter-tag">📝 Writing</a>
+        <a href="image-tools.html" class="filter-tag">🎨 Image</a>
+        <a href="video-tools.html" class="filter-tag">🎬 Video</a>
+        <a href="audio-tools.html" class="filter-tag">🎵 Audio</a>
+        <a href="marketing-tools.html" class="filter-tag">📊 Marketing</a>
+        <a href="code-tools.html" class="filter-tag">💻 Code</a>
+        <a href="productivity-tools.html" class="filter-tag">⚡ Productivity</a>
+        <a href="details/index.html" class="filter-tag" style="border-color:#8b5cf6;color:#8b5cf6">📋 All 123 Tools</a>
+      </div>
+      <div class="sort-bar">
+        <span class="filter-label">🔀 Sort:</span>
+        <button class="sort-btn active" onclick="sortTools('stars')">⭐ By Stars</button>
+        <button class="sort-btn" onclick="sortTools('name')">🔡 By Name</button>
+      </div>
+      <div class="card-grid" id="hot-tools-grid">
+        <div class="hot-tool-card" data-stars="192492" data-name="N8N">
+      <div class="hot-name"><a href="details/n8n.html">N8N</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#f9731620;color:#f97316;border:1px solid #f9731640;font-size:0.75rem">AI Productivity</span>
+        <span>⭐ 192.5k</span>
+      </div>
+      <div class="hot-desc">Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...</div>
+      <a href="details/n8n.html" class="view-details-link">View Details →</a>
+    </div><div class="hot-tool-card" data-stars="145188" data-name="Dify">
+      <div class="hot-name"><a href="details/dify.html">Dify</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#f9731620;color:#f97316;border:1px solid #f9731640;font-size:0.75rem">AI Productivity</span>
+        <span>⭐ 145.2k</span>
+      </div>
+      <div class="hot-desc">Production-ready platform for agentic workflow development....</div>
+      <a href="details/dify.html" class="view-details-link">View Details →</a>
+    </div><div class="hot-tool-card" data-stars="140448" data-name="System Prompts And Models Of Ai Tools">
+      <div class="hot-name"><a href="details/system-prompts-and-models-of-ai-tools.html">System Prompts And Models Of Ai Tools</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#3b82f620;color:#3b82f6;border:1px solid #3b82f640;font-size:0.75rem">AI Code</span>
+        <span>⭐ 140.4k</span>
+      </div>
+      <div class="hot-desc">FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L...</div>
+      <a href="details/system-prompts-and-models-of-ai-tools.html" class="view-details-link">View Details →</a>
+    </div><div class="hot-tool-card" data-stars="98799" data-name="Browser Use">
+      <div class="hot-name"><a href="details/browser-use.html">Browser Use</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#f9731620;color:#f97316;border:1px solid #f9731640;font-size:0.75rem">AI Productivity</span>
+        <span>⭐ 98.8k</span>
+      </div>
+      <div class="hot-desc">🌐 Make websites accessible for AI agents. Automate tasks online with ease....</div>
+      <a href="details/browser-use.html" class="view-details-link">View Details →</a>
+    </div><div class="hot-tool-card" data-stars="87738" data-name="Moneyprinterturbo">
+      <div class="hot-name"><a href="details/moneyprinterturbo.html">Moneyprinterturbo</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#f9731620;color:#f97316;border:1px solid #f9731640;font-size:0.75rem">AI Productivity</span>
+        <span>⭐ 87.7k</span>
+      </div>
+      <div class="hot-desc">利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM....</div>
+      <a href="details/moneyprinterturbo.html" class="view-details-link">View Details →</a>
+    </div><div class="hot-tool-card" data-stars="71157" data-name="Deer Flow">
+      <div class="hot-name"><a href="details/deer-flow.html">Deer Flow</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#f9731620;color:#f97316;border:1px solid #f9731640;font-size:0.75rem">AI Productivity</span>
+        <span>⭐ 71.2k</span>
+      </div>
+      <div class="hot-desc">An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...</div>
+      <a href="details/deer-flow.html" class="view-details-link">View Details →</a>
+    </div><div class="hot-tool-card" data-stars="64567" data-name="Awesome Claude Skills">
+      <div class="hot-name"><a href="details/awesome-claude-skills.html">Awesome Claude Skills</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#f9731620;color:#f97316;border:1px solid #f9731640;font-size:0.75rem">AI Productivity</span>
+        <span>⭐ 64.6k</span>
+      </div>
+      <div class="hot-desc">A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows...</div>
+      <a href="details/awesome-claude-skills.html" class="view-details-link">View Details →</a>
+    </div><div class="hot-tool-card" data-stars="63635" data-name="Scrapling">
+      <div class="hot-name"><a href="details/scrapling.html">Scrapling</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#f9731620;color:#f97316;border:1px solid #f9731640;font-size:0.75rem">AI Productivity</span>
+        <span>⭐ 63.6k</span>
+      </div>
+      <div class="hot-desc">🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale ...</div>
+      <a href="details/scrapling.html" class="view-details-link">View Details →</a>
+    </div><div class="hot-tool-card" data-stars="53696" data-name="Career Ops">
+      <div class="hot-name"><a href="details/career-ops.html">Career Ops</a></div>
+      <div class="hot-meta">
+        <span class="tag" style="background:#f9731620;color:#f97316;border:1px solid #f9731640;font-size:0.75rem">AI Productivity</span>
+        <span>⭐ 53.7k</span>
+      </div>
+      <div class="hot-desc">AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...</div>
+      <a href="details/career-ops.html" class="view-details-link">View Details →</a>
+    </div>
+      </div>
+      <p style="text-align:center;margin-top:1.5rem">
+        <a href="details/index.html" style="color:#8b5cf6;font-weight:500;text-decoration:none;font-size:1rem">
+          📋 Browse All 123 Tool Detail Pages →
         </a>
       </p>
     </div>
