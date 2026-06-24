@@ -5469,6 +5469,15 @@
     ]
   },
   {
+    "title": "AI Jobs Board — Find Your Next Role in AI | CreatorAI Tools",
+    "url": "/jobs.html",
+    "description": "Curated AI job openings from top companies. AI Research Scientist, Prompt Engineer, ML Engineer and more. Updated weekly.",
+    "category": "page",
+    "tags": [
+      "image"
+    ]
+  },
+  {
     "title": "AI Tools Directory | Browse by Category - CreatorAI Tools",
     "url": "/tools/index.html",
     "description": "Browse 57 AI tools for content creators. Categories: AI writing, image generation, video editing, and audio production.",
@@ -5494,6 +5503,41 @@
       "marketing",
       "video",
       "writing"
+    ]
+  },
+  {
+    "title": "CreatorAI Academy — Master AI Tools in 30 Days | AI Course",
+    "url": "/courses.html",
+    "description": "CreatorAI Academy — Master AI Tools in 30 Days | Step-by-step video course on ChatGPT, Midjourney, Runway & more. Learn which AI tools actually work and how to use them profitably.",
+    "category": "page",
+    "tags": [
+      "chatbot",
+      "video"
+    ]
+  },
+  {
+    "title": "CreatorAI Community — Join 1,000+ AI Enthusiasts",
+    "url": "/community.html",
+    "description": "Connect with 1,000+ AI creators. Join GitHub Discussions, read Dev.to articles, subscribe to our newsletter, and follow us on Twitter/X.",
+    "category": "page",
+    "tags": [
+      "chatbot",
+      "code",
+      "image",
+      "open-source",
+      "productivity",
+      "writing"
+    ]
+  },
+  {
+    "title": "CreatorAI Newsletter — Get Weekly AI Tool Deals & Tips",
+    "url": "/newsletter.html",
+    "description": "Join 1,000+ creators who get our weekly newsletter. AI tool deals, curated resources, productivity tips delivered to your inbox.",
+    "category": "page",
+    "tags": [
+      "free",
+      "marketing",
+      "productivity"
     ]
   },
   {
