@@ -16,9 +16,9 @@
     "audio": 12,
     "marketing": 25,
     "code": 13,
-    "productivity": 25
+    "productivity": 26
   },
-  "total": 123,
+  "total": 124,
   "data": {
     "writing": [
       {
@@ -3242,6 +3242,28 @@
         "license": "MIT",
         "forks": 1291,
         "issues": 6
+      },
+      {
+        "id": 260625001,
+        "name": "Remio",
+        "url": "https://remio.ai/",
+        "description": "Local-first AI memory and personal knowledge base for creators and knowledge workers. Remio parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors so users can retrieve focused context instead of repeatedly scanning folders or loading whole documents into prompts.",
+        "stars": 0,
+        "topics": [
+          "ai-tools",
+          "productivity",
+          "knowledge-base",
+          "ai-memory",
+          "local-first",
+          "document-analysis"
+        ],
+        "language": "Desktop app",
+        "updated": "2026-06-25T00:00:00Z",
+        "homepage": "https://remio.ai/",
+        "owner": "Remio",
+        "license": "",
+        "forks": 0,
+        "issues": 0
       }
     ],
     "uncategorized": [
