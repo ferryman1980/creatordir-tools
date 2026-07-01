@@ -1,6 +1,1022 @@
 {
-  "generated": "2026-06-24T13:19:21.633990",
-  "round": 22,
-  "total": 0,
-  "data": []
+  "generated": "2026-07-01T18:01:22.350474",
+  "round": 43,
+  "total": 51,
+  "data": [
+    {
+      "source": "huggingface",
+      "id": "enzostvs/deepsite",
+      "name": "deepsite",
+      "url": "https://huggingface.co/spaces/enzostvs/deepsite",
+      "description": "docker space",
+      "stars": 16617,
+      "topics": [
+        "docker",
+        ""
+      ],
+      "language": "docker",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/enzostvs/deepsite",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "open-llm-leaderboard/open_llm_leaderboard",
+      "name": "open_llm_leaderboard",
+      "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+      "description": "docker space",
+      "stars": 14037,
+      "topics": [
+        "docker",
+        ""
+      ],
+      "language": "docker",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "jbilcke-hf/ai-comic-factory",
+      "name": "ai-comic-factory",
+      "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
+      "description": "docker space",
+      "stars": 11152,
+      "topics": [
+        "docker",
+        ""
+      ],
+      "language": "docker",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "Kwai-Kolors/Kolors-Virtual-Try-On",
+      "name": "Kolors-Virtual-Try-On",
+      "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
+      "description": "gradio space",
+      "stars": 10124,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "black-forest-labs/FLUX.1-dev",
+      "name": "FLUX.1-dev",
+      "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
+      "description": "gradio space",
+      "stars": 9477,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "mteb/leaderboard",
+      "name": "leaderboard",
+      "url": "https://huggingface.co/spaces/mteb/leaderboard",
+      "description": "docker space",
+      "stars": 7524,
+      "topics": [
+        "docker",
+        ""
+      ],
+      "language": "docker",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/mteb/leaderboard",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "dalle-mini/dalle-mini",
+      "name": "dalle-mini",
+      "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
+      "description": "static space",
+      "stars": 5698,
+      "topics": [
+        "static",
+        ""
+      ],
+      "language": "static",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "AP123/IllusionDiffusion",
+      "name": "IllusionDiffusion",
+      "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
+      "description": "gradio space",
+      "stars": 5415,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "Wan-AI/Wan2.2-Animate",
+      "name": "Wan2.2-Animate",
+      "url": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
+      "description": "gradio space",
+      "stars": 5114,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "name": "FLUX.1-schnell",
+      "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
+      "description": "gradio space",
+      "stars": 5079,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "facebook/MusicGen",
+      "name": "MusicGen",
+      "url": "https://huggingface.co/spaces/facebook/MusicGen",
+      "description": "gradio space",
+      "stars": 5076,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/facebook/MusicGen",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "lmarena-ai/arena-leaderboard",
+      "name": "arena-leaderboard",
+      "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
+      "description": "static space",
+      "stars": 4934,
+      "topics": [
+        "static",
+        ""
+      ],
+      "language": "static",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "microsoft/TRELLIS",
+      "name": "TRELLIS",
+      "url": "https://huggingface.co/spaces/microsoft/TRELLIS",
+      "description": "gradio space",
+      "stars": 4775,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/microsoft/TRELLIS",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "KingNish/OpenGPT-4o",
+      "name": "OpenGPT-4o",
+      "url": "https://huggingface.co/spaces/KingNish/OpenGPT-4o",
+      "description": "gradio space",
+      "stars": 4307,
+      "topics": [
+        "gradio",
+        ""
+      ],
+      "language": "gradio",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/KingNish/OpenGPT-4o",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "huggingface",
+      "id": "nanotron/ultrascale-playbook",
+      "name": "ultrascale-playbook",
+      "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
+      "description": "static space",
+      "stars": 3916,
+      "topics": [
+        "static",
+        ""
+      ],
+      "language": "static",
+      "updated": "2026-07-01",
+      "homepage": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
+      "license": "Apache 2.0"
+    },
+    {
+      "source": "devto",
+      "id": "4032196",
+      "name": "The Future Of AI Is Local And Open",
+      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "description": "There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...",
+      "stars": 420,
+      "topics": [
+        "aie",
+        " gemma",
+        " ai"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4032466",
+      "name": "AI Engineer Meets AI Engineer",
+      "url": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
+      "description": "I'm sitting through day one of AI Engineer World's Fair San Francisco, and I'm struck by how...",
+      "stars": 330,
+      "topics": [
+        "aie",
+        " ai"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4032319",
+      "name": "The Log Is the Agent",
+      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "description": "AI agents are hitting the same inflection point.  Most people think an agent is the model, the...",
+      "stars": 350,
+      "topics": [
+        "aie",
+        " agents",
+        " ai"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4034648",
+      "name": "Play today’s game from Issue #2 of The Daily Context!",
+      "url": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+      "description": "Yesterday, we kicked off our physical newspaper, The Daily Context, at the AI Engineer World’s Fair...",
+      "stars": 160,
+      "topics": [
+        "aie",
+        " ai",
+        " gamedev",
+        " gemini"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4033830",
+      "name": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
+      "url": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
+      "description": "TL;DR  Anthropic recently published When AI Builds Itself, an essay explaining how AI is...",
+      "stars": 350,
+      "topics": [
+        "discuss",
+        " ai",
+        " developers",
+        " softwareengineering"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4032549",
+      "name": "The Evolution & Role of Context Engineering in AI Today",
+      "url": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
+      "description": "I was taking a break from the AIE Workshops on Monday and stepped out by the food stands to check out...",
+      "stars": 210,
+      "topics": [
+        "aie",
+        " ai",
+        " agents"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/dailycontext/the-evolution-role-of-context-engineering-in-ai-today-430f",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4032749",
+      "name": "You Don’t Always Need The Frontier",
+      "url": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "description": "Workshops at this year's AI Engineer World's Fair shifted noticeably away from RAG and prompt...",
+      "stars": 270,
+      "topics": [
+        "aie",
+        " ai"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4032104",
+      "name": "Gemma and sandboxing cause a stir at the World's Fair",
+      "url": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
+      "description": "As the AI Engineer World’s Fair kicked off officially on Monday, the halls were filled for the...",
+      "stars": 300,
+      "topics": [
+        "aie",
+        " ai",
+        " database",
+        " gemma"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/dailycontext/gemma-the-epstein-files-and-sandboxing-cause-a-stir-at-the-worlds-fair-2a7p",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4033346",
+      "name": "Loop Engineering: Do Frontend and Fullstack Devs Actually Need It?",
+      "url": "https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb",
+      "description": "Introduction   I keep hearing the term loop engineering. It's all over my feed, every AI...",
+      "stars": 270,
+      "topics": [
+        "ai",
+        " webdev",
+        " productivity",
+        " programming"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4032238",
+      "name": "Agnostic Cluster Refactor Skill for Antigrafity CLI: Building an AI Agent that Migrates Apps from AW",
+      "url": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "description": "How I built a skill for the Antigravity CLI that automates migrating AWS-coupled Python apps to GKE — parallel subagents, mandatory human oversight, and keyless auth.",
+      "stars": 70,
+      "topics": [
+        "kubernetes",
+        " googlecloud",
+        " ai",
+        " antigrafity"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/gde/agnostic-cluster-refactor-skill-for-antigrafity-cli-building-an-ai-agent-that-migrates-apps-from-e0",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4030159",
+      "name": "I Stopped Comparing Myself to AI. It Changed Everything.",
+      "url": "https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb",
+      "description": "I have been writing a lot about AI lately, but this one is more personal than usual. Not a tutorial,...",
+      "stars": 270,
+      "topics": [
+        "ai",
+        " career",
+        " programming",
+        " productivity"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4033730",
+      "name": "Two Terminals, One Pot of Tea: Parallel Claude Code with Git Worktrees",
+      "url": "https://dev.to/lovestaco/two-terminals-one-pot-of-tea-parallel-claude-code-with-git-worktrees-6h",
+      "description": "I had a lot of work to get through, and for once I didn't want to crawl through it one ticket at a...",
+      "stars": 220,
+      "topics": [
+        "ai",
+        " webdev",
+        " programming",
+        " beginners"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/lovestaco/two-terminals-one-pot-of-tea-parallel-claude-code-with-git-worktrees-6h",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4037828",
+      "name": "Nobody wants to review the robot's 600-line pull request",
+      "url": "https://dev.to/ali_abbas_d8086e0f96d8173/nobody-wants-to-review-the-robots-600-line-pull-request-4po8",
+      "description": "An agent opened a pull request on our service last week. Six hundred lines. It rewrote how we handle...",
+      "stars": 50,
+      "topics": [
+        "ai",
+        " programming",
+        " discuss",
+        " showdev"
+      ],
+      "language": "Article",
+      "updated": "2026-07-01",
+      "homepage": "https://dev.to/ali_abbas_d8086e0f96d8173/nobody-wants-to-review-the-robots-600-line-pull-request-4po8",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "4033184",
+      "name": "The Scribe’s Day Off: From 1880 Archives to 2026 Vines",
+      "url": "https://dev.to/kenwalger/the-scribes-day-off-from-1880-archives-to-2026-vines-55l3",
+      "description": "We’ve spent the last few weeks teaching an AI to read 19th-century cursive and build a social graph....",
+      "stars": 0,
+      "topics": [
+        "ai",
+        " sovereignsystems"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://dev.to/kenwalger/the-scribes-day-off-from-1880-archives-to-2026-vines-55l3",
+      "license": ""
+    },
+    {
+      "source": "devto",
+      "id": "3982143",
+      "name": "Build a Minimal WebMCP Agent with Playwright and Gemini",
+      "url": "https://dev.to/gramli/build-a-minimal-webmcp-agent-with-playwright-and-gemini-24fh",
+      "description": "WebMCP lets a web page expose tools that AI agents can discover and execute inside the browser. That...",
+      "stars": 60,
+      "topics": [
+        "ai",
+        " agents",
+        " tutorial",
+        " webdev"
+      ],
+      "language": "Article",
+      "updated": "2026-07-01",
+      "homepage": "https://dev.to/gramli/build-a-minimal-webmcp-agent-with-playwright-and-gemini-24fh",
+      "license": ""
+    },
+    {
+      "source": "hackernews",
+      "id": "48734373",
+      "name": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "description": "Claude Code is steganographically marking requests",
+      "stars": 2026,
+      "topics": [
+        "AI",
+        "Tech"
+      ],
+      "language": "Article",
+      "updated": "2026-06-30",
+      "homepage": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "license": ""
+    },
+    {
+      "source": "hackernews",
+      "id": "48736605",
+      "name": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "description": "Claude Sonnet 5",
+      "stars": 1133,
+      "topics": [
+        "AI",
+        "Tech"
+      ],
+      "language": "Article",
+      "updated": "2026-07-01",
+      "homepage": "https://www.anthropic.com/news/claude-sonnet-5",
+      "license": ""
+    },
+    {
+      "source": "hackernews",
+      "id": "48743472",
+      "name": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "description": "Godot will no longer accept AI-authored code contributions",
+      "stars": 143,
+      "topics": [
+        "AI",
+        "Tech"
+      ],
+      "language": "Article",
+      "updated": "2026-07-01",
+      "homepage": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "license": ""
+    },
+    {
+      "source": "hackernews",
+      "id": "48735770",
+      "name": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "description": "Claude Science",
+      "stars": 494,
+      "topics": [
+        "AI",
+        "Tech"
+      ],
+      "language": "Article",
+      "updated": "2026-07-01",
+      "homepage": "https://claude.com/product/claude-science",
+      "license": ""
+    },
+    {
+      "source": "hackernews",
+      "id": "48740771",
+      "name": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "description": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "stars": 689,
+      "topics": [
+        "AI",
+        "Tech"
+      ],
+      "language": "Article",
+      "updated": "2026-07-01",
+      "homepage": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "license": ""
+    },
+    {
+      "source": "hackernews",
+      "id": "48739466",
+      "name": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "description": "From brain waves to words: a new path to communication without surgery",
+      "stars": 158,
+      "topics": [
+        "AI",
+        "Tech"
+      ],
+      "language": "Article",
+      "updated": "2026-07-01",
+      "homepage": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "license": ""
+    },
+    {
+      "source": "github",
+      "id": "614765452",
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 185222,
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "https://agpt.co",
+      "license": "NOASSERTION"
+    },
+    {
+      "source": "github",
+      "id": "599320067",
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 150295,
+      "topics": [
+        "agents",
+        "chatgpt",
+        "generative-ai",
+        "large-language-models",
+        "multiagent",
+        "react-flow"
+      ],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "http://www.langflow.org",
+      "license": "MIT"
+    },
+    {
+      "source": "github",
+      "id": "943398999",
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts",
+      "stars": 141383,
+      "topics": [
+        "ai",
+        "bolt",
+        "cluely",
+        "copilot",
+        "cursor",
+        "cursorai",
+        "devin",
+        "github-copilot",
+        "lovable",
+        "open-source",
+        "perplexity",
+        "replit",
+        "system-prompts",
+        "trae",
+        "trae-ai",
+        "trae-ide",
+        "v0",
+        "vscode",
+        "windsurf",
+        "windsurf-ai"
+      ],
+      "language": "N/A",
+      "updated": "2026-07-01",
+      "homepage": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "license": "GPL-3.0"
+    },
+    {
+      "source": "github",
+      "id": "145553672",
+      "name": "fighting41love/funNLP",
+      "url": "https://github.com/fighting41love/funNLP",
+      "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取",
+      "stars": 81544,
+      "topics": [],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "https://zhuanlan.zhihu.com/yangyangfuture",
+      "license": ""
+    },
+    {
+      "source": "github",
+      "id": "979115477",
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 75709,
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "deep-research",
+        "harness",
+        "langchain",
+        "langgraph",
+        "langmanus",
+        "llm",
+        "multi-agent",
+        "nodejs",
+        "podcast",
+        "python",
+        "superagent",
+        "typescript"
+      ],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "https://deerflow.tech",
+      "license": "MIT"
+    },
+    {
+      "source": "github",
+      "id": "1078079172",
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 66488,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "composio",
+        "cursor",
+        "developer-tools",
+        "gemini-cli",
+        "mcp",
+        "openai-codex",
+        "rube",
+        "saas",
+        "skill",
+        "workflow-automation"
+      ],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "license": ""
+    },
+    {
+      "source": "github",
+      "id": "1129940957",
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 54933,
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression",
+        "context-engineering",
+        "context-window",
+        "cursor",
+        "fastapi",
+        "langchain",
+        "llm",
+        "mcp",
+        "openai",
+        "prompt-engineering",
+        "proxy",
+        "python",
+        "rag",
+        "token-optimization",
+        "tokens",
+        "typescript"
+      ],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "https://headroomlabs-ai.github.io/headroom/",
+      "license": "Apache-2.0"
+    },
+    {
+      "source": "github",
+      "id": "44662669",
+      "name": "dbeaver/dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "stars": 50794,
+      "topics": [
+        "ai",
+        "database",
+        "databricks",
+        "db2",
+        "dbeaver",
+        "erd",
+        "gui",
+        "java",
+        "jdbc",
+        "mysql",
+        "nosql",
+        "oracle",
+        "postgresql",
+        "redshift",
+        "snowflake",
+        "sql",
+        "sqlite",
+        "sqlserver"
+      ],
+      "language": "Java",
+      "updated": "2026-07-01",
+      "homepage": "https://dbeaver.io",
+      "license": "Apache-2.0"
+    },
+    {
+      "source": "github",
+      "id": "522158088",
+      "name": "zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45713,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude",
+        "claude-code",
+        "codex",
+        "cowagent",
+        "deepseek",
+        "harness",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "openclaw",
+        "skills"
+      ],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "https://cowagent.ai",
+      "license": "MIT"
+    },
+    {
+      "source": "github",
+      "id": "1147094660",
+      "name": "HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 44923,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-cli",
+        "llm",
+        "nanobot",
+        "openai",
+        "openclaw"
+      ],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "https://nanobot.wiki",
+      "license": "MIT"
+    },
+    {
+      "source": "github",
+      "id": "352933140",
+      "name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars": 38121,
+      "topics": [
+        "ai-app-builder",
+        "docker",
+        "hacktoberfest",
+        "internal-applications",
+        "internal-project",
+        "internal-tool",
+        "internal-tools",
+        "javascript",
+        "kubernetes",
+        "low-code",
+        "low-code-development-platform",
+        "low-code-framework",
+        "no-code",
+        "nodejs",
+        "reactjs",
+        "self-hosted",
+        "typescript",
+        "web-development-tools",
+        "workflow-automation"
+      ],
+      "language": "JavaScript",
+      "updated": "2026-07-01",
+      "homepage": "https://tooljet.com",
+      "license": "AGPL-3.0"
+    },
+    {
+      "source": "github",
+      "id": "1007827531",
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 32444,
+      "topics": [],
+      "language": "TypeScript",
+      "updated": "2026-07-01",
+      "homepage": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "license": "Apache-2.0"
+    },
+    {
+      "source": "github",
+      "id": "1195360525",
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 30383,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "claude",
+        "copilot",
+        "cursor",
+        "elevenlabs",
+        "ffmpeg",
+        "flux",
+        "image-generation",
+        "open-source",
+        "openai",
+        "python",
+        "remotion",
+        "stable-diffusion",
+        "text-to-speech",
+        "text-to-video",
+        "video-generation",
+        "video-production"
+      ],
+      "language": "Python",
+      "updated": "2026-07-01",
+      "homepage": "https://github.com/calesthio/OpenMontage",
+      "license": "AGPL-3.0"
+    },
+    {
+      "source": "github",
+      "id": "1171026502",
+      "name": "googleworkspace/cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "stars": 29254,
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "cli",
+        "discovery-api",
+        "gemini-cli-extension",
+        "google-admin",
+        "google-api",
+        "google-calendar",
+        "google-chat",
+        "google-docs",
+        "google-drive",
+        "google-sheets",
+        "google-workspace",
+        "oauth2",
+        "rust"
+      ],
+      "language": "Rust",
+      "updated": "2026-07-01",
+      "homepage": "https://developers.google.com/workspace",
+      "license": "Apache-2.0"
+    },
+    {
+      "source": "github",
+      "id": "762304524",
+      "name": "ComposioHQ/composio",
+      "url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "stars": 29041,
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagents",
+        "developer-tools",
+        "function-calling",
+        "gpt-4",
+        "javascript",
+        "js",
+        "llm",
+        "llmops",
+        "mcp",
+        "python",
+        "remote-mcp-server",
+        "sse",
+        "typescript"
+      ],
+      "language": "TypeScript",
+      "updated": "2026-07-01",
+      "homepage": "https://docs.composio.dev",
+      "license": "MIT"
+    }
+  ]
 }
